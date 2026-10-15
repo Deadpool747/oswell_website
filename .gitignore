@@ -1,0 +1,12 @@
+node_modules/
+.env
+.next/
+_next/
+out/
+live-site-pull/
+data/jobs/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+.codex-*

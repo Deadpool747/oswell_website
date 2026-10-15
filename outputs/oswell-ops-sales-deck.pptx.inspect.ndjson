@@ -1,0 +1,199 @@
+{"kind":"deck","id":"pr/25y54d","name":"Deck"}
+{"kind":"layout","layoutId":"f2313103-cb16-4834-b5c6-d4b6b1380715","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"2473827e-40e6-4afa-a294-031e66c9db0a","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/zl1l09","slide":1,"title":"OSWELL OPS","textShapes":3}
+{"kind":"textbox","id":"sh/54zidony","slide":1,"text":"OSWELL OPS","textPreview":"OSWELL OPS","textChars":10,"textLines":1,"bbox":[1134,30,110,28]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":1,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[1130,682,90,18]}
+{"kind":"shape","id":"sh/nap4r65w","slide":1,"bbox":[140,138,1000,452]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":1,"bbox":[140,138,1000,10]}
+{"kind":"textbox","id":"sh/cvixczed","slide":1,"text":"Oswell Ops gives enterprise teams one control plane for AI operations","textPreview":"Oswell Ops gives enterprise teams one control plane for AI operations","textChars":69,"textLines":1,"bbox":[236,360,960,180]}
+{"kind":"image","id":"im/nuxc3ylc","slide":1,"name":"","alt":"Oswell Ops logo","bbox":[1088,18,48,48]}
+{"kind":"image","id":"im/gn29gr2p","slide":1,"name":"","alt":"Oswell Ops logo","bbox":[578,208,124,124]}
+{"kind":"notes","id":"nt/zl1l09","slide":1,"text":""}
+{"kind":"slide","id":"sl/sh23km","slide":2,"title":"The problem","textShapes":17}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":2,"text":"The problem","textPreview":"The problem","textChars":11,"textLines":1,"bbox":[54,36,360,24]}
+{"kind":"textbox","id":"sh/knih4byh","slide":2,"text":"OSWELL OPS","textPreview":"OSWELL OPS","textChars":10,"textLines":1,"bbox":[1134,30,110,28]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1130,682,90,18]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":2,"text":"AI programs break when visibility, policy, and security live in separate tools","textPreview":"AI programs break when visibility, policy, and security live in separate tools","textChars":78,"textLines":1,"bbox":[54,88,780,70]}
+{"kind":"textbox","id":"sh/d0z61032","slide":2,"text":"The moment copilots, agent workflows, and MCP tools reach production, teams need more than model logs and one-off dashboards.","textPreview":"The moment copilots, agent workflows, and MCP tools reach production, teams need more than model logs and one-off dashboards.","textChars":125,"textLines":1,"bbox":[54,190,480,176]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":2,"bbox":[56,412,8,8]}
+{"kind":"textbox","id":"sh/vixczed8","slide":2,"text":"Operations teams need run health, latency, cost, and policy outcomes in one place.","textPreview":"Operations teams need run health, latency, cost, and policy outcomes in one place.","textChars":82,"textLines":1,"bbox":[74,404,472,80]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":2,"bbox":[56,484,8,8]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":2,"text":"Business owners need risky actions routed for approval before systems of record are touched.","textPreview":"Business owners need risky actions routed for approval before systems of record are touched.","textChars":92,"textLines":1,"bbox":[74,476,472,80]}
+{"kind":"shape","id":"sh/90je9cvi","slide":2,"bbox":[56,556,8,8]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":2,"text":"Security teams need identity, context, memory, and tool controls with evidence trails.","textPreview":"Security teams need identity, context, memory, and tool controls with evidence trails.","textChars":86,"textLines":1,"bbox":[74,548,472,80]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":2,"bbox":[648,176,562,440]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":2,"text":"What leaders end up managing","textPreview":"What leaders end up managing","textChars":28,"textLines":1,"bbox":[684,208,490,34]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":2,"text":"Fragmented runtime data","textPreview":"Fragmented runtime data","textChars":23,"textLines":1,"bbox":[684,270,200,26]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":2,"text":"Runs span Azure AI Foundry, Copilot Studio, Microsoft 365 Copilot, and internal apps.","textPreview":"Runs span Azure AI Foundry, Copilot Studio, Microsoft 365 Copilot, and internal apps.","textChars":85,"textLines":1,"bbox":[892,270,272,52]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":2,"bbox":[684,334,478,2]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":2,"text":"Approval blind spots","textPreview":"Approval blind spots","textChars":20,"textLines":1,"bbox":[684,356,200,26]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":2,"text":"Critical agent actions are discovered after execution instead of before execution.","textPreview":"Critical agent actions are discovered after execution instead of before execution.","textChars":82,"textLines":1,"bbox":[892,356,272,52]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":2,"bbox":[684,420,478,2]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":2,"text":"Security sprawl","textPreview":"Security sprawl","textChars":15,"textLines":1,"bbox":[684,442,200,26]}
+{"kind":"textbox","id":"sh/bulwval8","slide":2,"text":"Identity, MCP tools, context, and memory reviews are separated from operations.","textPreview":"Identity, MCP tools, context, and memory reviews are separated from operations.","textChars":79,"textLines":1,"bbox":[892,442,272,52]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":2,"bbox":[684,506,478,2]}
+{"kind":"textbox","id":"sh/tovahoza","slide":2,"text":"Release drift","textPreview":"Release drift","textChars":13,"textLines":1,"bbox":[684,528,200,26]}
+{"kind":"textbox","id":"sh/032lszqt","slide":2,"text":"Deployment, prompts, secrets, quotas, and configs change faster than governance can track.","textPreview":"Deployment, prompts, secrets, quotas, and configs change faster than governance can track.","textChars":90,"textLines":1,"bbox":[892,528,272,52]}
+{"kind":"image","id":"im/s72x4nap","slide":2,"name":"","alt":"Oswell Ops logo","bbox":[1088,18,48,48]}
+{"kind":"notes","id":"nt/sh23km","slide":2,"text":""}
+{"kind":"slide","id":"sl/xg879n","slide":3,"title":"The answer","textShapes":21}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":3,"text":"The answer","textPreview":"The answer","textChars":10,"textLines":1,"bbox":[54,36,360,24]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":3,"text":"OSWELL OPS","textPreview":"OSWELL OPS","textChars":10,"textLines":1,"bbox":[1134,30,110,28]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1130,682,90,18]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":3,"text":"Oswell Ops connects runtime, governance, and security in one layer","textPreview":"Oswell Ops connects runtime, governance, and security in one layer","textChars":66,"textLines":1,"bbox":[54,86,860,64]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":3,"text":"The platform follows the lifecycle of an AI action from run to review to release.","textPreview":"The platform follows the lifecycle of an AI action from run to review to release.","textChars":81,"textLines":1,"bbox":[54,154,840,34]}
+{"kind":"shape","id":"sh/58z25kb6","slide":3,"bbox":[58,240,224,326]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":3,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[78,266,42,32]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":3,"text":"Observe every run","textPreview":"Observe every run","textChars":17,"textLines":1,"bbox":[78,318,180,56]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":3,"text":"Track execution, tools, tokens, cost, latency, and policy results in real time.","textPreview":"Track execution, tools, tokens, cost, latency, and policy results in real time.","textChars":79,"textLines":1,"bbox":[78,402,182,116]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":3,"bbox":[298,240,224,326]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":3,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[318,266,42,32]}
+{"kind":"textbox","id":"sh/cvixczed","slide":3,"text":"Gate risky actions","textPreview":"Gate risky actions","textChars":18,"textLines":1,"bbox":[318,318,180,56]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":3,"text":"Route sensitive actions into approval workflows with clear SLA ownership.","textPreview":"Route sensitive actions into approval workflows with clear SLA ownership.","textChars":73,"textLines":1,"bbox":[318,402,182,116]}
+{"kind":"shape","id":"sh/udg7adsj","slide":3,"bbox":[538,240,224,326]}
+{"kind":"textbox","id":"sh/54zidony","slide":3,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[558,266,42,32]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":3,"text":"Secure identities and tools","textPreview":"Secure identities and tools","textChars":27,"textLines":1,"bbox":[558,318,180,56]}
+{"kind":"textbox","id":"sh/judg7ads","slide":3,"text":"Review agent permissions, MCP trust, egress, and least-privilege posture.","textPreview":"Review agent permissions, MCP trust, egress, and least-privilege posture.","textChars":73,"textLines":1,"bbox":[558,402,182,116]}
+{"kind":"shape","id":"sh/u9knih4b","slide":3,"bbox":[778,240,224,326]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":3,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[798,266,42,32]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":3,"text":"Govern context and memory","textPreview":"Govern context and memory","textChars":25,"textLines":1,"bbox":[798,318,180,56]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":3,"text":"Monitor prompt injection, retrieved context, shared memory, and quarantine events.","textPreview":"Monitor prompt injection, retrieved context, shared memory, and quarantine events.","textChars":82,"textLines":1,"bbox":[798,402,182,116]}
+{"kind":"shape","id":"sh/94fu18jq","slide":3,"bbox":[1018,240,224,326]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":3,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1038,266,42,32]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":3,"text":"Release with control","textPreview":"Release with control","textChars":20,"textLines":1,"bbox":[1038,318,180,56]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":3,"text":"Keep deployment, prompts, secrets, quotas, and environment changes auditable.","textPreview":"Keep deployment, prompts, secrets, quotas, and environment changes auditable.","textChars":77,"textLines":1,"bbox":[1038,402,182,116]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":3,"text":"Designed to support Azure AI Foundry, Copilot Studio, Microsoft 365 Copilot, Power Platform, enterprise connectors, and MCP servers.","textPreview":"Designed to support Azure AI Foundry, Copilot Studio, Microsoft 365 Copilot, Power Platform, enterprise connectors, and MCP servers.","textChars":132,"textLines":1,"bbox":[56,618,940,22]}
+{"kind":"image","id":"im/18jqh0fe","slide":3,"name":"","alt":"Oswell Ops logo","bbox":[1088,18,48,48]}
+{"kind":"notes","id":"nt/xg879n","slide":3,"text":""}
+{"kind":"slide","id":"sl/c6igsz","slide":4,"title":"What the workspace covers","textShapes":13}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":4,"text":"What the workspace covers","textPreview":"What the workspace covers","textChars":25,"textLines":1,"bbox":[54,36,360,24]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":4,"text":"OSWELL OPS","textPreview":"OSWELL OPS","textChars":10,"textLines":1,"bbox":[1134,30,110,28]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":4,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1130,682,90,18]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":4,"text":"One workspace covers the core controls enterprise teams need first","textPreview":"One workspace covers the core controls enterprise teams need first","textChars":66,"textLines":1,"bbox":[54,84,860,64]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":4,"bbox":[54,196,568,182]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":4,"bbox":[78,220,12,12]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":4,"text":"Live Runs","textPreview":"Live Runs","textChars":9,"textLines":1,"bbox":[106,214,250,32]}
+{"kind":"textbox","id":"sh/u54zidon","slide":4,"text":"Real-time visibility across agent activity, tool calls, tokens, cost, latency, and policy outcomes.","textPreview":"Real-time visibility across agent activity, tool calls, tokens, cost, latency, and policy outcomes.","textChars":99,"textLines":1,"bbox":[78,268,514,72]}
+{"kind":"shape","id":"sh/cbulwval","slide":4,"bbox":[658,196,568,182]}
+{"kind":"shape","id":"sh/5sneloj2","slide":4,"bbox":[682,220,12,12]}
+{"kind":"textbox","id":"sh/u54zidon","slide":4,"text":"Approvals and Audit","textPreview":"Approvals and Audit","textChars":19,"textLines":1,"bbox":[710,214,250,32]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":4,"text":"High-risk actions, reviewer workflows, SLA tracking, and decision history tied back to each run.","textPreview":"High-risk actions, reviewer workflows, SLA tracking, and decision history tied back to each run.","textChars":96,"textLines":1,"bbox":[682,268,514,72]}
+{"kind":"shape","id":"sh/czed8v6p","slide":4,"bbox":[54,420,568,182]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":4,"bbox":[78,444,12,12]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":4,"text":"AI Security Center","textPreview":"AI Security Center","textChars":18,"textLines":1,"bbox":[106,438,250,32]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":4,"text":"Identity, MCP tool security, context protection, memory controls, and incident response in one place.","textPreview":"Identity, MCP tool security, context protection, memory controls, and incident response in one place.","textChars":101,"textLines":1,"bbox":[78,492,514,72]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":4,"bbox":[658,420,568,182]}
+{"kind":"shape","id":"sh/58z25kb6","slide":4,"bbox":[682,444,12,12]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":4,"text":"Deployment and Environment","textPreview":"Deployment and Environment","textChars":26,"textLines":1,"bbox":[710,438,250,32]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":4,"text":"Configuration, prompts, quotas, secrets, models, and release changes governed with auditability.","textPreview":"Configuration, prompts, quotas, secrets, models, and release changes governed with auditability.","textChars":96,"textLines":1,"bbox":[682,492,514,72]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":4,"text":"Connectors, policies, knowledge, testing, feedback, and export workflows extend the same operating model beyond the core control surfaces.","textPreview":"Connectors, policies, knowledge, testing, feedback, and export workflows extend the same operating model beyond the core control surfaces.","textChars":138,"textLines":1,"bbox":[56,648,1120,24]}
+{"kind":"image","id":"im/kre1w7mp","slide":4,"name":"","alt":"Oswell Ops logo","bbox":[1088,18,48,48]}
+{"kind":"notes","id":"nt/c6igsz","slide":4,"text":""}
+{"kind":"slide","id":"sl/g42zg4","slide":5,"title":"Product proof","textShapes":21}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":5,"text":"Product proof","textPreview":"Product proof","textChars":13,"textLines":1,"bbox":[54,36,360,24]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":5,"text":"OSWELL OPS","textPreview":"OSWELL OPS","textChars":10,"textLines":1,"bbox":[1134,30,110,28]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1130,682,90,18]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":5,"text":"Operational data and governance signals live in one workspace","textPreview":"Operational data and governance signals live in one workspace","textChars":61,"textLines":1,"bbox":[54,84,980,56]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":5,"text":"Example operating baseline from the Oswell Ops workspace","textPreview":"Example operating baseline from the Oswell Ops workspace","textChars":56,"textLines":1,"bbox":[54,146,430,88]}
+{"kind":"textbox","id":"sh/knih4byh","slide":5,"text":"These are product signals shown inside the platform today. They demonstrate the operating questions Oswell Ops can answer in one place rather than promising a customer outcome.","textPreview":"These are product signals shown inside the platform today. They demonstrate the operating questions Oswell Ops can answer in one place ra...","textChars":176,"textLines":1,"bbox":[54,232,430,146]}
+{"kind":"shape","id":"sh/val87ed8","slide":5,"bbox":[538,188,300,162]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":5,"text":"12,486","textPreview":"12,486","textChars":6,"textLines":1,"bbox":[562,206,252,56]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":5,"text":"Runs monitored","textPreview":"Runs monitored","textChars":14,"textLines":1,"bbox":[562,258,252,34]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":5,"text":"Example live activity across agents and copilots.","textPreview":"Example live activity across agents and copilots.","textChars":49,"textLines":1,"bbox":[562,294,252,46]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":5,"bbox":[870,188,300,162]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":5,"text":"97.4%","textPreview":"97.4%","textChars":5,"textLines":1,"bbox":[894,206,252,56]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":5,"text":"Success rate","textPreview":"Success rate","textChars":12,"textLines":1,"bbox":[894,258,252,34]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":5,"text":"Operational quality visible next to risk and policy state.","textPreview":"Operational quality visible next to risk and policy state.","textChars":58,"textLines":1,"bbox":[894,294,252,46]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":5,"bbox":[538,382,300,162]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":5,"text":"93%","textPreview":"93%","textChars":3,"textLines":1,"bbox":[562,400,252,56]}
+{"kind":"textbox","id":"sh/83itgfml","slide":5,"text":"Security score","textPreview":"Security score","textChars":14,"textLines":1,"bbox":[562,452,252,34]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":5,"text":"Identity, context, memory, and MCP controls roll into one posture view.","textPreview":"Identity, context, memory, and MCP controls roll into one posture view.","textChars":71,"textLines":1,"bbox":[562,488,252,46]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":5,"bbox":[870,382,300,162]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":5,"text":"11m","textPreview":"11m","textChars":3,"textLines":1,"bbox":[894,400,252,56]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":5,"text":"Mean response","textPreview":"Mean response","textChars":13,"textLines":1,"bbox":[894,452,252,34]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":5,"text":"Security readiness is connected to response ownership and evidence.","textPreview":"Security readiness is connected to response ownership and evidence.","textChars":67,"textLines":1,"bbox":[894,488,252,46]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":5,"bbox":[56,478,8,8]}
+{"kind":"textbox","id":"sh/sji5snel","slide":5,"text":"Live Runs spans Azure AI Foundry, Copilot Studio, App Insights, and Power Platform.","textPreview":"Live Runs spans Azure AI Foundry, Copilot Studio, App Insights, and Power Platform.","textChars":83,"textLines":1,"bbox":[74,470,412,72]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":5,"bbox":[56,542,8,8]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":5,"text":"Security view tracks open critical issues, risky tool calls, excess privilege, and quarantine events.","textPreview":"Security view tracks open critical issues, risky tool calls, excess privilege, and quarantine events.","textChars":101,"textLines":1,"bbox":[74,534,412,72]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":5,"bbox":[56,606,8,8]}
+{"kind":"textbox","id":"sh/svu9knih","slide":5,"text":"Approvals link business actions back to policy, risk, and owners.","textPreview":"Approvals link business actions back to policy, risk, and owners.","textChars":65,"textLines":1,"bbox":[74,598,412,72]}
+{"kind":"image","id":"im/oj2t83it","slide":5,"name":"","alt":"Oswell Ops logo","bbox":[1088,18,48,48]}
+{"kind":"notes","id":"nt/g42zg4","slide":5,"text":""}
+{"kind":"slide","id":"sl/0zlddi","slide":6,"title":"Why buyers care","textShapes":12}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":6,"text":"Why buyers care","textPreview":"Why buyers care","textChars":15,"textLines":1,"bbox":[54,36,360,24]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":6,"text":"OSWELL OPS","textPreview":"OSWELL OPS","textChars":10,"textLines":1,"bbox":[1134,30,110,28]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":6,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1130,682,90,18]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":6,"text":"Technical teams get a shared operating view across different control needs","textPreview":"Technical teams get a shared operating view across different control needs","textChars":74,"textLines":1,"bbox":[54,84,840,64]}
+{"kind":"shape","id":"sh/6tovahoz","slide":6,"bbox":[54,210,364,314]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":6,"text":"Innovation and CIO leaders","textPreview":"Innovation and CIO leaders","textChars":26,"textLines":1,"bbox":[78,236,300,56]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":6,"text":"Scale copilots and agents without adding another disconnected dashboard. Oswell Ops creates one control plane for runtime, approvals, and release governance.","textPreview":"Scale copilots and agents without adding another disconnected dashboard. Oswell Ops creates one control plane for runtime, approvals, and...","textChars":157,"textLines":1,"bbox":[78,318,306,138]}
+{"kind":"shape","id":"sh/dsji5sne","slide":6,"bbox":[446,210,364,314]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":6,"text":"Ops and platform teams","textPreview":"Ops and platform teams","textChars":22,"textLines":1,"bbox":[470,236,300,56]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":6,"text":"Give engineering and business teams one surface for live runs, config changes, deployment state, connectors, and operational accountability.","textPreview":"Give engineering and business teams one surface for live runs, config changes, deployment state, connectors, and operational accountability.","textChars":140,"textLines":1,"bbox":[470,318,306,138]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":6,"bbox":[838,210,364,314]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":6,"text":"Security and risk teams","textPreview":"Security and risk teams","textChars":23,"textLines":1,"bbox":[862,236,300,56]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":6,"text":"Enforce least privilege, context boundaries, memory controls, MCP trust, and evidence capture before incidents spread across systems.","textPreview":"Enforce least privilege, context boundaries, memory controls, MCP trust, and evidence capture before incidents spread across systems.","textChars":133,"textLines":1,"bbox":[862,318,306,138]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":6,"bbox":[54,570,1120,96]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":6,"text":"Ideal pilot","textPreview":"Ideal pilot","textChars":11,"textLines":1,"bbox":[82,596,210,28]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":6,"text":"One business workflow, 2 to 3 agents, 3 to 5 connectors, one approval path, and one security review loop.","textPreview":"One business workflow, 2 to 3 agents, 3 to 5 connectors, one approval path, and one security review loop.","textChars":105,"textLines":1,"bbox":[302,590,836,36]}
+{"kind":"image","id":"im/7qpg3ex0","slide":6,"name":"","alt":"Oswell Ops logo","bbox":[1088,18,48,48]}
+{"kind":"notes","id":"nt/0zlddi","slide":6,"text":""}
+{"kind":"slide","id":"sl/j1gm98","slide":7,"title":"Next step","textShapes":15}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":7,"text":"Next step","textPreview":"Next step","textChars":9,"textLines":1,"bbox":[54,36,360,24]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":7,"text":"OSWELL OPS","textPreview":"OSWELL OPS","textChars":10,"textLines":1,"bbox":[1134,30,110,28]}
+{"kind":"textbox","id":"sh/3q5o7qpg","slide":7,"text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1130,682,90,18]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":7,"text":"A focused pilot shows value fast","textPreview":"A focused pilot shows value fast","textChars":32,"textLines":1,"bbox":[54,86,740,64]}
+{"kind":"textbox","id":"sh/lwval87e","slide":7,"text":"The fastest path is a working session around one high-value AI workflow. Oswell Ops is strongest when a team needs to connect operational visibility, governance, and security before scale creates drift.","textPreview":"The fastest path is a working session around one high-value AI workflow. Oswell Ops is strongest when a team needs to connect operational...","textChars":202,"textLines":1,"bbox":[54,168,520,188]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":7,"bbox":[56,420,8,8]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":7,"text":"Map the agents, tools, approval points, and target environments.","textPreview":"Map the agents, tools, approval points, and target environments.","textChars":64,"textLines":1,"bbox":[74,412,522,66]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":7,"bbox":[56,478,8,8]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":7,"text":"Instrument live runs and connect policy-aware approvals.","textPreview":"Instrument live runs and connect policy-aware approvals.","textChars":56,"textLines":1,"bbox":[74,470,522,66]}
+{"kind":"shape","id":"sh/54zidony","slide":7,"bbox":[56,536,8,8]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":7,"text":"Enable security reviews for identity, context, memory, and MCP tool usage.","textPreview":"Enable security reviews for identity, context, memory, and MCP tool usage.","textChars":74,"textLines":1,"bbox":[74,528,522,66]}
+{"kind":"shape","id":"sh/nyd0z610","slide":7,"bbox":[56,594,8,8]}
+{"kind":"textbox","id":"sh/cvixczed","slide":7,"text":"Review the baseline and define the rollout plan.","textPreview":"Review the baseline and define the rollout plan.","textChars":48,"textLines":1,"bbox":[74,586,522,66]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":7,"bbox":[730,170,454,430]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":7,"text":"Best fit right now","textPreview":"Best fit right now","textChars":18,"textLines":1,"bbox":[760,204,220,30]}
+{"kind":"shape","id":"sh/nap4r65w","slide":7,"bbox":[762,266,8,8]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":7,"text":"Teams already running copilots, internal agents, or MCP-based workflows","textPreview":"Teams already running copilots, internal agents, or MCP-based workflows","textChars":71,"textLines":1,"bbox":[780,258,360,84]}
+{"kind":"shape","id":"sh/1orytsvu","slide":7,"bbox":[762,342,8,8]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":7,"text":"Environments with regulated data or high-risk business actions","textPreview":"Environments with regulated data or high-risk business actions","textChars":62,"textLines":1,"bbox":[780,334,360,84]}
+{"kind":"shape","id":"sh/czed8v6p","slide":7,"bbox":[762,418,8,8]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":7,"text":"Organizations that need one view across runtime, security, and release control","textPreview":"Organizations that need one view across runtime, security, and release control","textChars":78,"textLines":1,"bbox":[780,410,360,84]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":7,"bbox":[762,494,8,8]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":7,"text":"Programs moving from experimentation into production operations","textPreview":"Programs moving from experimentation into production operations","textChars":63,"textLines":1,"bbox":[780,486,360,84]}
+{"kind":"textbox","id":"sh/cbulwval","slide":7,"text":"Recommended ask: schedule a workflow-scoping session and define the first pilot.","textPreview":"Recommended ask: schedule a workflow-scoping session and define the first pilot.","textChars":80,"textLines":1,"bbox":[732,628,430,30]}
+{"kind":"image","id":"im/s72x4nap","slide":7,"name":"","alt":"Oswell Ops logo","bbox":[1088,18,48,48]}
+{"kind":"notes","id":"nt/j1gm98","slide":7,"text":""}
+{"kind":"slide","id":"sl/sjw05e","slide":8,"title":"Assessment","textShapes":16}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":8,"text":"Assessment","textPreview":"Assessment","textChars":10,"textLines":1,"bbox":[54,36,360,24]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":8,"text":"OSWELL OPS","textPreview":"OSWELL OPS","textChars":10,"textLines":1,"bbox":[1134,30,110,28]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":8,"text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1130,682,90,18]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":8,"text":"Next, we assess your current AI system and define the first controlled rollout","textPreview":"Next, we assess your current AI system and define the first controlled rollout","textChars":78,"textLines":1,"bbox":[54,84,960,64]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":8,"text":"The goal is to understand how your current workflow runs today, where control gaps exist, and what access is required for a safe pilot.","textPreview":"The goal is to understand how your current workflow runs today, where control gaps exist, and what access is required for a safe pilot.","textChars":135,"textLines":1,"bbox":[54,154,860,36]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":8,"bbox":[54,230,516,366]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":8,"text":"What we will do","textPreview":"What we will do","textChars":15,"textLines":1,"bbox":[84,262,260,32]}
+{"kind":"shape","id":"sh/at47y1kr","slide":8,"bbox":[86,330,8,8]}
+{"kind":"textbox","id":"sh/knih4byh","slide":8,"text":"Review the target workflow, agents, tools, and approval points.","textPreview":"Review the target workflow, agents, tools, and approval points.","textChars":63,"textLines":1,"bbox":[104,322,420,76]}
+{"kind":"shape","id":"sh/d8bat47y","slide":8,"bbox":[86,398,8,8]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":8,"text":"Assess runtime visibility, policy controls, and security posture.","textPreview":"Assess runtime visibility, policy controls, and security posture.","textChars":65,"textLines":1,"bbox":[104,390,420,76]}
+{"kind":"shape","id":"sh/v6psfil0","slide":8,"bbox":[86,466,8,8]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":8,"text":"Identify where live runs, memory, connectors, and deployments need governance.","textPreview":"Identify where live runs, memory, connectors, and deployments need governance.","textChars":78,"textLines":1,"bbox":[104,458,420,76]}
+{"kind":"shape","id":"sh/d0z61032","slide":8,"bbox":[86,534,8,8]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":8,"text":"Define the first pilot scope, owners, and success criteria.","textPreview":"Define the first pilot scope, owners, and success criteria.","textChars":59,"textLines":1,"bbox":[104,526,420,76]}
+{"kind":"shape","id":"sh/vu9knih4","slide":8,"bbox":[602,230,620,366]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":8,"text":"What we will need from you","textPreview":"What we will need from you","textChars":26,"textLines":1,"bbox":[632,262,320,32]}
+{"kind":"shape","id":"sh/donyd0z6","slide":8,"bbox":[634,330,8,8]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":8,"text":"Permission to review the selected workflow and supporting system details.","textPreview":"Permission to review the selected workflow and supporting system details.","textChars":73,"textLines":1,"bbox":[652,322,522,76]}
+{"kind":"shape","id":"sh/orytsvu9","slide":8,"bbox":[634,398,8,8]}
+{"kind":"textbox","id":"sh/z61032ls","slide":8,"text":"Read-only access where possible to relevant environments, logs, or dashboards.","textPreview":"Read-only access where possible to relevant environments, logs, or dashboards.","textChars":78,"textLines":1,"bbox":[652,390,522,76]}
+{"kind":"shape","id":"sh/al87ed8b","slide":8,"bbox":[634,466,8,8]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":8,"text":"Basic connector, agent, and tool inventory for the workflow in scope.","textPreview":"Basic connector, agent, and tool inventory for the workflow in scope.","textChars":69,"textLines":1,"bbox":[652,458,522,76]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":8,"bbox":[634,534,8,8]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":8,"text":"Key owners for approvals, security review, and operational sign-off.","textPreview":"Key owners for approvals, security review, and operational sign-off.","textChars":68,"textLines":1,"bbox":[652,526,522,76]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":8,"bbox":[54,628,1168,52]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":8,"text":"Preferred approach: start with limited read-only access and one workflow, then expand only after the initial assessment is complete.","textPreview":"Preferred approach: start with limited read-only access and one workflow, then expand only after the initial assessment is complete.","textChars":132,"textLines":1,"bbox":[82,644,1108,22]}
+{"kind":"image","id":"im/gbq1oryt","slide":8,"name":"","alt":"Oswell Ops logo","bbox":[1088,18,48,48]}
+{"kind":"notes","id":"nt/sjw05e","slide":8,"text":""}

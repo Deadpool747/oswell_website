@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120" role="img" aria-labelledby="title">
+  <title id="title">Oswell Technologies</title>
+  <rect x="0" y="12" width="96" height="96" rx="18" fill="#0a7f78"/>
+  <path d="M20 72c0-18 14-32 32-32 12 0 22 6 28 16" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="52" cy="56" r="6" fill="#f59e0b"/>
+  <text x="116" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" fill="#1e2b5c">Oswell</text>
+  <text x="118" y="106" font-family="Segoe UI, Arial, sans-serif" font-size="24" letter-spacing="6" fill="#ef6c00">TECHNOLOGIES</text>
+</svg>

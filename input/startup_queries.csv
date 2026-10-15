@@ -1,0 +1,9 @@
+query,provider,country,state,city,industry,source_url
+seed stage startup,startup_search,United States,,,Software,https://www.google.com/search
+series a startup,startup_search,United States,,,Software,https://www.google.com/search
+venture backed startup,startup_search,United States,,,Artificial Intelligence,https://www.google.com/search
+founder led startup,startup_search,United Kingdom,,,B2B SaaS,https://www.google.com/search
+ai startup,startup_search,United States,,,Artificial Intelligence,https://www.google.com/search
+fintech startup,startup_search,United Kingdom,,,Fintech,https://www.google.com/search
+healthtech startup,startup_search,United States,,,Healthtech,https://www.google.com/search
+climate tech startup,startup_search,United Kingdom,,,Climate Tech,https://www.google.com/search

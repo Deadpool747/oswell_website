@@ -1,0 +1,6 @@
+query,provider,country,state,city,industry,source_url
+Microsoft,sec_edgar,United States,,,Software,https://www.sec.gov/
+Apple,sec_edgar,United States,,,Technology,https://www.sec.gov/
+Salesforce,sec_edgar,United States,,,Software,https://www.sec.gov/
+Adobe,sec_edgar,United States,,,Software,https://www.sec.gov/
+NVIDIA,sec_edgar,United States,,,Semiconductors,https://www.sec.gov/

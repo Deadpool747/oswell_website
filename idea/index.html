@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RNRX7NH07X"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-RNRX7NH07X');
+  </script>
+  <title>Idea Intake | Oswell Technologies</title>
+  <meta name="description" content="Premium multi-step project intake flow for collecting project requirements." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../assets/css/idea.css" />
+</head>
+<body>
+  <main class="idea-page">
+    <div class="idea-shell">
+      <header class="idea-header">
+        <div>
+          <p class="eyebrow">Oswell Technologies</p>
+          <h1 class="header-title">Premium Project Intake</h1>
+        </div>
+        <div class="header-actions">
+          <a class="header-link" href="../contact.html">Contact</a>
+          <a class="header-link header-link-primary" href="../index.html">Main Website</a>
+        </div>
+      </header>
+
+      <section class="progress-wrap">
+        <div class="progress-meta">
+          <span id="stepLabel">Step 1 of 8</span>
+          <span id="progressLabel">0% complete</span>
+        </div>
+        <div class="progress-bar">
+          <div class="progress-bar-fill" id="progressFill"></div>
+        </div>
+      </section>
+
+      <section class="wizard-grid">
+        <div class="wizard-main">
+          <div class="step-copy">
+            <span class="eyebrow" id="stepEyebrow">Project Intake</span>
+            <h2 id="stepTitle">Let's Build Your Project</h2>
+            <p id="stepDescription">A premium onboarding flow for product discovery. Share what you want to launch and we will shape it into a clearer execution plan.</p>
+          </div>
+
+          <div class="wizard-card" id="stepContent"></div>
+
+          <div class="wizard-actions" id="wizardActions">
+            <button class="btn btn-ghost" id="backButton" type="button">Back</button>
+            <div class="wizard-actions-right">
+              <button class="btn btn-primary" id="nextButton" type="button">Start</button>
+            </div>
+          </div>
+        </div>
+
+        <aside class="wizard-side">
+          <div class="insight-card">
+            <p class="insight-label">Live Estimate</p>
+            <h3 id="estimateValue">₹1,20,000</h3>
+            <p class="insight-copy">A directional estimate based on product type, selected features, and delivery urgency.</p>
+          </div>
+
+          <div class="insight-grid">
+            <div class="mini-card">
+              <p class="mini-label">Product</p>
+              <p class="mini-value" id="summaryProduct">Not selected</p>
+            </div>
+            <div class="mini-card">
+              <p class="mini-label">Feature Scope</p>
+              <p class="mini-value" id="summaryFeatures">0 selected</p>
+            </div>
+            <div class="mini-card">
+              <p class="mini-label">Budget</p>
+              <p class="mini-value" id="summaryBudget">₹1,80,000</p>
+            </div>
+          </div>
+
+          <div class="timeline-card">
+            <p class="mini-label">Timeline</p>
+            <p class="mini-value" id="summaryDeadline">Not selected</p>
+          </div>
+        </aside>
+      </section>
+    </div>
+  </main>
+
+  <div class="toast" id="toast" aria-live="polite" aria-atomic="true"></div>
+  <script src="../assets/js/idea.js"></script>
+</body>
+</html>

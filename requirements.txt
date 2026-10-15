@@ -1,0 +1,19 @@
+beautifulsoup4>=4.12.3
+fastapi>=0.115.6
+lxml>=5.2.2
+pandas>=2.2.2
+playwright>=1.48.0
+PyYAML>=6.0.2
+python-multipart>=0.0.20
+requests>=2.32.3
+scrapy>=2.11.2
+tenacity>=9.0.0
+tqdm>=4.66.5
+phonenumbers>=8.13.45
+tldextract>=5.1.2
+python-dotenv>=1.0.1
+uvicorn>=0.32.1
+
+# Optional, open-source browser automation and AI crawling helpers.
+# Uncomment if you want them installed in your environment.
+# crawl4ai>=0.4.248

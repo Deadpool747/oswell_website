@@ -1,0 +1,141 @@
+app:
+  name: executive-leadgen
+  output_dir: ./output
+  database_path: ./data/leadgen.sqlite3
+  log_dir: ./logs
+  resume: true
+  target_leads: 1000
+
+discovery:
+  mode: startup
+  providers:
+    - seed_csv
+    - yc_directory
+    - companies_house
+  countries:
+    - United States
+    - United Kingdom
+  industries:
+    - Software
+    - Artificial Intelligence
+    - Fintech
+    - Healthtech
+    - Climate Tech
+    - B2B SaaS
+  keywords:
+    - startup
+    - seed stage
+    - series a
+    - founder
+    - venture backed
+  registry_queries: []
+  registry_queries_csv: ./input/registry_queries.csv
+  startup_queries_csv: ./input/startup_queries.csv
+  seed_urls: []
+  seed_companies_csv: ./input/seed_companies.csv
+  additional_source_csvs: []
+  max_discovered_companies: 1000
+  companies_house:
+    enabled: true
+    api_key_env: COMPANIES_HOUSE_API_KEY
+    base_url: https://api.company-information.service.gov.uk
+    max_results: 50
+    cache_ttl_hours: 72
+  yc_directory:
+    enabled: true
+    base_url: https://www.ycombinator.com/companies
+    validate_official_sites: false
+    categories:
+      - ai
+      - b2b
+      - biotech
+      - climate
+      - consumer
+      - crypto
+      - design
+      - developer-tools
+      - devtools
+      - ecommerce
+      - education
+      - energy
+      - fintech
+      - gaming
+      - hardware
+      - health
+      - hr
+      - legal
+      - marketplaces
+      - media
+      - enterprise-software
+      - productivity
+      - robotics
+      - sales
+      - security
+      - social
+      - travel
+    max_results: 1500
+    company_page_budget: 50
+    cache_ttl_hours: 72
+  sec_edgar:
+    enabled: false
+    user_agent: ExecutiveLeadGen/1.0 contact@example.com
+    max_results: 50
+    cache_ttl_hours: 24
+  startup_search:
+    enabled: false
+    max_results: 100
+    search_budget_per_query: 5
+    min_signal_score: 2
+    cache_ttl_hours: 72
+
+crawl:
+  concurrency: 4
+  batch_size: 20
+  max_pages_per_company: 8
+  request_timeout_seconds: 20
+  retries: 3
+  backoff_factor: 2.0
+  delay_min_seconds: 1.0
+  delay_max_seconds: 4.0
+  user_agent: Mozilla/5.0 (compatible; ExecutiveLeadGen/1.0; +https://example.com/bot)
+  respect_robots_txt: true
+  enable_playwright: true
+  follow_internal_links: true
+  additional_link_budget: 4
+  candidate_paths:
+    - /
+    - /about
+    - /about-us
+    - /about/leadership
+    - /company/leadership
+    - /company/about-us/leadership
+    - /company/leadership-team
+    - /team
+    - /leadership
+    - /company
+    - /our-team
+    - /management
+    - /company/about
+    - /company/team
+    - /about/team
+    - /contact
+    - /people
+    - /executives
+    - /who-we-are
+
+llm:
+  enabled: true
+  provider: openai_compatible
+  base_url: http://localhost:11434/v1
+  api_key_env: LLM_API_KEY
+  model: llama3.1
+  temperature: 0.1
+  max_tokens: 1400
+
+export:
+  csv_path: executive_leads.csv
+  json_path: executive_leads.json
+  pretty_json: true
+
+logging:
+  level: INFO

@@ -1,0 +1,16 @@
+{
+  "name": "Oswell AI Operations Platform",
+  "short_name": "Oswell",
+  "description": "Frontend-only enterprise AI operations and governance platform",
+  "start_url": "/live-runs",
+  "display": "standalone",
+  "background_color": "#050A12",
+  "theme_color": "#050A12",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
