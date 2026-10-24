@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Agentic AI Platform",
+    "summary": "Autonomous AI agents built to complete high-value workflows across support, operations, finance, and internal services.",
+    "problem": "Teams lose pace when critical workflows depend on handoffs, follow-ups, and manual coordination across systems.",
+    "scenario": "A company wants AI that can review context, access business tools, request approvals when needed, and complete multi-step work without constant supervision.",
+    "solution": "We build agentic systems that connect to your stack and execute operational flows with logic, memory, action-taking, and controlled human oversight."
+  },
+  {
+    "title": "Voice Agent Suite",
+    "summary": "Production-ready voice agents for support, qualification, scheduling, collections, and high-volume customer conversations.",
+    "problem": "Businesses miss opportunities when routine calls depend on overloaded teams and inconsistent handling.",
+    "scenario": "A clinic, recruiter, or service business needs a voice system that understands intent, checks records, completes the right action, and confirms the outcome instantly.",
+    "solution": "We design AI voice agents for reception, appointment booking, lead qualification, support, collections, screening, and patient coordination."
+  },
+  {
+    "title": "Business Automation Hub",
+    "summary": "Enterprise automation across CRM, ERP, finance, approvals, documents, email, and operational workflows.",
+    "problem": "Core processes still slow down when updates, approvals, routing, and cross-team coordination happen manually.",
+    "scenario": "A business wants lead handling, finance checks, approval chains, and downstream system updates to move automatically with fewer gaps.",
+    "solution": "We build orchestration layers that validate inputs, route work, trigger next actions, and keep operational systems aligned in real time."
+  },
+  {
+    "title": "OCR Intelligence",
+    "summary": "Document intelligence for extraction, validation, anomaly detection, and workflow-ready structured data.",
+    "problem": "Document-heavy teams lose hours extracting information manually and checking it against business rules.",
+    "scenario": "A company needs invoices, KYC files, medical documents, receipts, contracts, or delivery notes classified and processed without manual re-entry.",
+    "solution": "We build document intelligence workflows that classify, extract, validate, flag anomalies, and route approved outputs into ERP or CRM systems."
+  },
+  {
+    "title": "Delivery & Tracking Intelligence",
+    "summary": "Operational intelligence for dispatch, routing, ETA prediction, exception handling, and delivery visibility.",
+    "problem": "Dispatch teams struggle when route planning, live reassignment, and customer updates depend on manual judgment.",
+    "scenario": "A logistics or field-service operation wants the best driver, route, ETA, reroute decision, and customer notification to happen with less friction.",
+    "solution": "We build live dispatch and tracking systems that improve route decisions, surface exceptions early, and keep operations and customers informed."
+  },
+  {
+    "title": "Computer Vision Engine",
+    "summary": "Camera-based intelligence for inspection, detection, monitoring, and visual decision support at scale.",
+    "problem": "Visual inspection and monitoring become inconsistent, expensive, and difficult to scale when handled entirely by people.",
+    "scenario": "A manufacturer needs defect detection, a retailer wants shelf visibility, or a site requires event-based monitoring from live feeds.",
+    "solution": "We build computer-vision systems that detect events, verify conditions, and feed actionable intelligence into business workflows."
+  },
+  {
+    "title": "AI Healthcare Operations Platform",
+    "summary": "AI workflow automation for patient enquiries, scheduling, intake, reminders, referrals, and admin coordination.",
+    "problem": "Healthcare providers lose valuable time to repetitive administrative tasks that slow patient coordination and front-desk performance.",
+    "scenario": "A provider wants enquiries answered, appointments managed, reminders sent, documents processed, and referrals coordinated in one operational layer.",
+    "solution": "We combine voice AI, agentic workflows, document intelligence, and automation into a unified administrative employee layer for care operations."
+  },
+  {
+    "title": "AI Finance & Accounts Automation",
+    "summary": "Finance automation for AP, AR, reconciliation, collections, invoice matching, and reporting workflows.",
+    "problem": "Finance teams lose efficiency when invoice checks, approvals, reconciliations, and system updates rely on manual handling.",
+    "scenario": "An invoice arrives and must be extracted, matched, reviewed for discrepancies, routed for approval, entered into ERP, and tracked to payment.",
+    "solution": "We build finance automation workflows that reduce manual effort across payables, receivables, reconciliation, collections, and reporting."
+  },
+  {
+    "title": "Financial Fraud & Risk Intelligence",
+    "summary": "AI-assisted fraud, anomaly, and risk monitoring designed to strengthen investigation and decision quality.",
+    "problem": "Risk teams face too many suspicious signals and too little time to prioritize the cases that matter most.",
+    "scenario": "A financial operation needs stronger support for suspicious transactions, behavioural anomalies, merchant risk, account takeover signals, and AML investigations.",
+    "solution": "We build AI-assisted risk intelligence systems that surface the right cases, explain patterns clearly, and support human-led investigation workflows."
+  },
+  {
+    "title": "AI Customer Resolution Agent",
+    "summary": "Outcome-driven customer operations AI that resolves issues, not just answers questions.",
+    "problem": "Support systems lose credibility when they can respond to customers but cannot complete the action required to resolve the issue.",
+    "scenario": "A customer reports a failed delivery and the business needs the system to verify status, decide the right next step, trigger resolution, update records, and communicate back.",
+    "solution": "We build resolution agents that combine retrieval, business logic, secure system access, and action workflows so support becomes outcome-led."
+  },
+  {
+    "title": "AI Sales Intelligence & SDR Agent",
+    "summary": "Sales AI for research, prioritization, outreach support, follow-ups, CRM hygiene, and meeting creation.",
+    "problem": "Revenue teams waste time researching leads, personalizing outreach, and keeping CRM data accurate by hand.",
+    "scenario": "A company wants target accounts researched, outreach prepared, follow-ups triggered, meetings booked, and CRM records updated with far less manual effort.",
+    "solution": "We build SDR-style AI systems that strengthen prospect research, qualification, outreach support, follow-up logic, and pipeline hygiene."
+  },
+  {
+    "title": "AI Procurement Agent",
+    "summary": "Procurement intelligence for sourcing, quote comparison, vendor scoring, contract review, and spend visibility.",
+    "problem": "Procurement slows down when supplier discovery, quote analysis, approvals, and document review are spread across fragmented tools.",
+    "scenario": "A business needs RFQs, vendor comparison, purchase requests, contract analysis, and spend reviews handled in a more structured workflow.",
+    "solution": "We build procurement agents that standardize sourcing and evaluation so vendor decisions move faster and with better visibility."
+  },
+  {
+    "title": "Analytics Command Center",
+    "summary": "AI-powered decision dashboards for finance, operations, sales, growth, and executive visibility.",
+    "problem": "Leadership teams cannot move quickly when reporting is fragmented and dashboards show numbers without usable interpretation.",
+    "scenario": "An executive needs to understand why revenue, cost, margin, or operational performance shifted and what action should follow.",
+    "solution": "We build command centers that blend dashboards, natural-language analysis, forecasting, anomaly detection, and recommendation layers for better decisions."
+  },
+  {
+    "title": "AI Company Brain",
+    "summary": "Private enterprise intelligence across documents, CRM, email, policies, tickets, ERP, and team knowledge.",
+    "problem": "Institutional knowledge becomes hard to use when critical context is scattered across systems, people, and old records.",
+    "scenario": "An employee needs the full history behind a client, project, or issue and wants that context turned into a recommended next step immediately.",
+    "solution": "We build a private intelligence layer that retrieves enterprise context, answers questions clearly, and powers follow-on actions across your stack."
+  },
+  {
+    "title": "AI Sports Performance Intelligence Platform",
+    "summary": "Performance intelligence built from video, event data, match analysis, and AI-assisted coaching insights.",
+    "problem": "Sports organizations need more than raw statistics to improve coaching, scouting, tactical decisions, and performance review.",
+    "scenario": "A club, academy, analyst, or scout wants player tracking, opposition analysis, event detection, and video intelligence in one decision system.",
+    "solution": "We build sports performance platforms that connect video, match events, and AI analysis into practical tools for coaches, analysts, and scouting teams."
+  }
+]

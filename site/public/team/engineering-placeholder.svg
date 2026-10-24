@@ -1,0 +1,26 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder portrait</title>
+  <desc id="desc">A minimal placeholder portrait illustration for the engineering lead profile card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="160" y1="120" x2="1040" y2="1080" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17354A"/>
+      <stop offset="1" stop-color="#0B1626"/>
+    </linearGradient>
+    <linearGradient id="halo" x1="360" y1="250" x2="880" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7CE6C4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#67B8FF" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="figure" x1="600" y1="330" x2="600" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D8E4EE"/>
+      <stop offset="1" stop-color="#8EA5B8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" rx="48" fill="url(#bg)"/>
+  <circle cx="600" cy="390" r="220" fill="url(#halo)" opacity="0.45"/>
+  <circle cx="600" cy="390" r="170" fill="url(#figure)"/>
+  <path d="M328 1062C328 880.578 475.078 733.5 656.5 733.5H543.5C724.922 733.5 872 880.578 872 1062V1100H328V1062Z" fill="url(#figure)"/>
+  <path d="M462 812C504.143 780.135 550.44 764.203 600.891 764.203C650.366 764.203 695.909 780.135 737.521 812L784 1100H416L462 812Z" fill="#A7BBCB"/>
+  <circle cx="505" cy="434" r="18" fill="#0D1A29" opacity="0.35"/>
+  <circle cx="695" cy="434" r="18" fill="#0D1A29" opacity="0.35"/>
+  <path d="M530 532C575.313 573.333 621.313 573.333 668 532" stroke="#0D1A29" stroke-opacity="0.28" stroke-width="28" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,307 @@
+[
+  {
+    "slug": "blog-ai-automation",
+    "tag": "AI & Operations | 8 min read",
+    "title": "AI Automation for Small Business: Practical Guide",
+    "pageTitle": "AI Automation for Small Business: Practical Guide | Oswell Technologies",
+    "description": "A practical guide to AI automation for small businesses: what to automate first, how to measure ROI, and how to scale safely.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Most businesses do not need complex AI from day one. They need clear workflow wins. The best starting point is identifying repetitive tasks with high volume and predictable rules."
+      },
+      {
+        "type": "h",
+        "text": "1. Start with operational pain points"
+      },
+      {
+        "type": "p",
+        "text": "List tasks that consume team time every week: support replies, status updates, data entry, lead qualification, and report generation. These are typical automation candidates."
+      },
+      {
+        "type": "h",
+        "text": "2. Prioritize high-impact automations"
+      },
+      {
+        "type": "p",
+        "text": "Choose initiatives with measurable outcomes such as response-time reduction, lower error rates, or shorter cycle times. Focus on one workflow first, then expand."
+      },
+      {
+        "type": "h",
+        "text": "3. Integrate with existing systems"
+      },
+      {
+        "type": "p",
+        "text": "Automation succeeds when it works inside your current stack: CRM, communication tools, and internal dashboards. Avoid isolated tools that create new silos."
+      },
+      {
+        "type": "h",
+        "text": "4. Keep humans in control"
+      },
+      {
+        "type": "p",
+        "text": "Use AI to assist decisions, not blindly replace accountability. Add review checkpoints and log every automated action for traceability."
+      },
+      {
+        "type": "h",
+        "text": "5. Measure and optimize monthly"
+      },
+      {
+        "type": "p",
+        "text": "Track KPIs before and after deployment. Improvement loops are where automation creates compounding value."
+      }
+    ],
+    "summary": "Where AI creates immediate value, what to automate first, and how to measure success."
+  },
+  {
+    "slug": "blog-delivery-app-cost-india",
+    "tag": "Product Planning | 7 min read",
+    "title": "Cost of Building a Delivery App in India (2026 Guide)",
+    "pageTitle": "Cost of Building a Delivery App in India (2026) | Oswell Technologies",
+    "description": "Cost of building delivery app India in 2026: features, timeline, team cost, and practical budgeting for startup founders.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Delivery app pricing depends on scope, timeline, and reliability requirements. Start with a practical MVP and expand using real user feedback."
+      },
+      {
+        "type": "h",
+        "text": "Core cost drivers"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Number of apps: customer, rider, and admin panel.",
+          "Real-time tracking and mapping complexity.",
+          "Payment gateway and order settlement flows.",
+          "Notification infrastructure and support tooling."
+        ]
+      },
+      {
+        "type": "h",
+        "text": "Typical build phases"
+      },
+      {
+        "type": "p",
+        "text": "Phase 1 - MVP: essential ordering, assignment, and status tracking."
+      },
+      {
+        "type": "p",
+        "text": "Phase 2 - Optimization: dispatch logic, analytics, and customer engagement."
+      },
+      {
+        "type": "p",
+        "text": "Phase 3 - Scale: multi-city support, ops automation, and SLA reporting."
+      },
+      {
+        "type": "h",
+        "text": "Budget planning range"
+      },
+      {
+        "type": "p",
+        "text": "Early-stage MVPs usually start in the mid five-figure INR range, while production-grade multi-role systems require larger investment based on scale and compliance requirements."
+      }
+    ],
+    "summary": "A practical cost model for founders planning delivery, logistics, or marketplace products, with India-specific benchmarks inside."
+  },
+  {
+    "slug": "blog-flutter-vs-react-native",
+    "tag": "Mobile Engineering | 6 min read",
+    "title": "Flutter vs React Native (2026 Guide) for Startups",
+    "pageTitle": "Flutter vs React Native (2026 Guide) | Oswell Technologies",
+    "description": "Flutter vs React Native in 2026: compare performance, hiring, timeline, and long-term maintainability for modern product teams.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Both frameworks are proven. The right choice depends on your team profile, UI requirements, and long-term product roadmap."
+      },
+      {
+        "type": "h",
+        "text": "Choose Flutter when"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You need highly consistent UI across devices.",
+          "You want strong performance with expressive design.",
+          "Your team is comfortable with Dart and single-codebase discipline."
+        ]
+      },
+      {
+        "type": "h",
+        "text": "Choose React Native when"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "You already have strong JavaScript/React capability.",
+          "You need faster web-mobile skill portability.",
+          "You rely on a mature JS ecosystem for integrations."
+        ]
+      },
+      {
+        "type": "h",
+        "text": "Decision lens"
+      },
+      {
+        "type": "p",
+        "text": "For most startups, delivery speed with maintainability should drive the decision. Select the stack your team can execute confidently for the next 12 to 18 months."
+      }
+    ],
+    "summary": "A decision framework covering speed, performance, hiring, and long-term maintainability."
+  },
+  {
+    "slug": "blog-launch-mvp-in-one-week",
+    "tag": "MVP Delivery | 7 min read",
+    "title": "How to Launch an MVP in 1 Week",
+    "pageTitle": "How to Launch an MVP in 1 Week | Oswell Technologies",
+    "description": "How to launch an MVP in 1 week: scope control, stakeholder alignment, fast architecture, and a practical delivery sprint for founders.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Fast delivery only works when the team agrees on what the MVP is not. A 1-week sprint is about validation, not completeness. The goal is to ship the smallest usable product that answers a real business question."
+      },
+      {
+        "type": "h",
+        "text": "1. Define one outcome"
+      },
+      {
+        "type": "p",
+        "text": "Choose a single measurable result for the sprint: capture more leads, cut a manual workflow, validate buyer demand, or prove a technical path. If you try to solve five outcomes in one week, the MVP becomes a half-finished product."
+      },
+      {
+        "type": "h",
+        "text": "2. Cut the scope aggressively"
+      },
+      {
+        "type": "p",
+        "text": "Remove secondary dashboards, deep admin tools, advanced permissions, and edge-case flows. Keep only the one journey the user absolutely must complete for the MVP to be useful."
+      },
+      {
+        "type": "h",
+        "text": "3. Align architecture early"
+      },
+      {
+        "type": "p",
+        "text": "Even a fast MVP needs sound structure. Decide the stack, deployment path, and data model before building. This avoids rework when the product gets traction and needs to scale."
+      },
+      {
+        "type": "h",
+        "text": "4. Use AI as an accelerator, not a replacement"
+      },
+      {
+        "type": "p",
+        "text": "AI can speed up implementation, but engineering review still matters. The fastest teams use AI to move quickly while keeping human judgment on architecture, security, and quality."
+      },
+      {
+        "type": "h",
+        "text": "5. End the week with a decision"
+      },
+      {
+        "type": "p",
+        "text": "The real output of a fast MVP is clarity. You should know whether to expand, iterate, pause, or invest further. A 1-week sprint works best when it creates a confident next move."
+      }
+    ],
+    "summary": "A practical way to cut scope, align stakeholders, and move from discovery into a fast validation sprint."
+  },
+  {
+    "slug": "blog-ai-readiness-checklist",
+    "tag": "AI Strategy | 6 min read",
+    "title": "AI Readiness Checklist for Small Businesses",
+    "pageTitle": "AI Readiness Checklist for Small Businesses | Oswell Technologies",
+    "description": "AI readiness checklist for small businesses: process clarity, data quality, workflow volume, security, and ROI signals before investing.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Many companies want AI, but not every company is ready for it today. Readiness is less about hype and more about whether the business has enough process clarity and operating discipline to turn AI into measurable value."
+      },
+      {
+        "type": "h",
+        "text": "1. Do you have a repetitive workflow?"
+      },
+      {
+        "type": "p",
+        "text": "AI creates the strongest ROI where work repeats often: support questions, document processing, internal search, lead qualification, scheduling, and reporting. If every task is unique, automation value is harder to capture."
+      },
+      {
+        "type": "h",
+        "text": "2. Is your process already somewhat defined?"
+      },
+      {
+        "type": "p",
+        "text": "AI performs best when the current workflow is understandable. If the team handles the same work in ten different ways, the first step is process cleanup, not model deployment."
+      },
+      {
+        "type": "h",
+        "text": "3. Is your data usable?"
+      },
+      {
+        "type": "p",
+        "text": "Data does not need to be perfect, but it should be accessible. If information is trapped across inboxes, spreadsheets, PDFs, and undocumented systems, a readiness phase can still help organize what matters."
+      },
+      {
+        "type": "h",
+        "text": "4. Can the team review outputs?"
+      },
+      {
+        "type": "p",
+        "text": "Good AI rollouts keep humans in the loop. Someone should own review, escalation, and quality checks during the early stages so the system improves without risking trust."
+      },
+      {
+        "type": "h",
+        "text": "5. Do you know what success looks like?"
+      },
+      {
+        "type": "p",
+        "text": "Before investing, define the KPI: faster response time, fewer hours spent manually, better conversion, lower error rate, or improved visibility. AI works best when success is measurable."
+      }
+    ],
+    "summary": "The operational, data, and team signals that tell you whether your company is ready for AI now."
+  },
+  {
+    "slug": "blog-custom-software-vs-no-code",
+    "tag": "Software Decisions | 7 min read",
+    "title": "Custom Software vs No-Code for Growing Teams",
+    "pageTitle": "Custom Software vs No-Code for Growing Teams | Oswell Technologies",
+    "description": "Custom software vs no-code for growing teams: when no-code is enough, when custom systems become necessary, and how to choose wisely.",
+    "body": [
+      {
+        "type": "p",
+        "text": "No-code tools are excellent for speed, internal workflows, and early validation. Custom software becomes valuable when the business starts bending those tools too far and the operational cost of workarounds keeps rising."
+      },
+      {
+        "type": "h",
+        "text": "When no-code is usually enough"
+      },
+      {
+        "type": "p",
+        "text": "If the workflow is simple, the users are internal, and the integrations are lightweight, no-code can be the fastest and cheapest way to ship. It is especially useful for prototypes, dashboards, forms, and early-stage internal tooling."
+      },
+      {
+        "type": "h",
+        "text": "When custom software becomes the better move"
+      },
+      {
+        "type": "p",
+        "text": "Custom systems make sense when performance, permissions, security, advanced integrations, or differentiated user experience matter. Once the business depends heavily on a workflow, maintainability starts to matter more than raw setup speed."
+      },
+      {
+        "type": "h",
+        "text": "Watch for the warning signs"
+      },
+      {
+        "type": "p",
+        "text": "If your team relies on too many manual workarounds, duplicated tools, brittle automations, or difficult reporting, the platform may have outgrown no-code. Those costs are real even when they do not appear on the subscription invoice."
+      },
+      {
+        "type": "h",
+        "text": "Use a hybrid approach when possible"
+      },
+      {
+        "type": "p",
+        "text": "One smart path is validating the workflow with no-code, then rebuilding the proven pieces in custom software once the ROI is clear. This reduces waste while keeping the long-term system scalable."
+      }
+    ],
+    "summary": "When templates are enough, when they become a bottleneck, and how to choose without overspending."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "pdf": "/assets/research/towards-autonomous-enterprise-operations.pdf",
+    "texts": [
+      "Towards Autonomous Enterprise Operations",
+      "A conceptual framework for AI-augmented business processes, operating models, and enterprise execution design."
+    ]
+  },
+  {
+    "pdf": "/assets/research/enterprise-digital-trust-framework.pdf",
+    "texts": [
+      "Enterprise Digital Trust Framework",
+      "A strategic model for building trust, resilience, and governance in the digital economy for modern organizations."
+    ]
+  },
+  {
+    "pdf": "/assets/research/autonomous-ai-powered-indoor-farming.pdf",
+    "texts": [
+      "Autonomous AI-Powered Indoor Farming",
+      "A strategic framework for climate-independent robotic production of fruits and vegetables using AI-led indoor systems."
+    ]
+  },
+  {
+    "pdf": "/assets/research/fully-autonomous-robotic-farming.pdf",
+    "texts": [
+      "Fully Autonomous Robotic Farming",
+      "A human-free and climate-independent system for sustainable fruit and vegetable production with robotic autonomy."
+    ]
+  },
+  {
+    "pdf": "/assets/research/dna-to-data-framework.pdf",
+    "texts": [
+      "DNA-to-Data",
+      "A framework for extracting, decoding, and interpreting information from DNA molecules for research and applied intelligence workflows."
+    ]
+  },
+  {
+    "pdf": "/assets/research/ai-powered-early-disease-detection.pdf",
+    "texts": [
+      "AI-Powered Early Disease Detection",
+      "A predictive healthcare framework focused on using AI to strengthen early disease detection, screening signals, and clinical decision support."
+    ]
+  }
+]

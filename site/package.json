@@ -1,0 +1,19 @@
+{
+  "name": "oswell-site",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3100",
+    "build": "next build --webpack && node scripts/postbuild.mjs",
+    "start": "npx serve out -l 3100"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "@react-three/postprocessing": "^3.2.0",
+    "lucide-react": "^1.58.0",
+    "next": "^16.2.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "three": "^0.186.1"
+  }
+}

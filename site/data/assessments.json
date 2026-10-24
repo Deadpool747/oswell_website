@@ -1,0 +1,930 @@
+[
+  {
+    "slug": "healthcare-ai-assessment",
+    "pageTitle": "Healthcare AI Assessment | Oswell Technologies",
+    "description": "Book a free healthcare AI assessment to reduce patient scheduling friction, paperwork, and documentation load with secure automation.",
+    "title": "Is Your Healthcare Organization Ready for AI?",
+    "subtitle": "Discover where AI, automation, and modern software can reduce administrative load, improve patient coordination, and support clinical teams before you invest in a larger build.",
+    "metrics": [
+      [
+        "↓ 65%",
+        "Repetitive work reduction"
+      ],
+      [
+        "↑ 40%",
+        "Productivity improvement"
+      ],
+      [
+        "↓ 30%",
+        "Operational cost reduction"
+      ],
+      [
+        "↑ 3x",
+        "Faster decision making"
+      ]
+    ],
+    "industry": "Healthcare",
+    "review": [
+      "Patient scheduling",
+      "Manual paperwork",
+      "Compliance review",
+      "Appointment management",
+      "Clinical documentation"
+    ],
+    "challengesTitle": "What slows teams down in healthcare",
+    "challenges": [
+      "Patient scheduling friction",
+      "Manual paperwork and intake",
+      "Compliance-heavy workflows",
+      "Appointment management overload",
+      "Clinical documentation bottlenecks"
+    ],
+    "solveTitle": "Where AI, automation, and better software create leverage",
+    "solutions": [
+      [
+        "Intake automation",
+        "Automate patient intake, reminders, and follow-up tasks so staff can focus on care."
+      ],
+      [
+        "Secure document workflows",
+        "Use OCR and workflow automation for forms, referrals, and records with tighter control."
+      ],
+      [
+        "Scheduling intelligence",
+        "Reduce no-shows and admin time with smarter appointment handling."
+      ],
+      [
+        "Clinical support tools",
+        "Build internal tools that help clinicians find information faster."
+      ]
+    ],
+    "portfolio": [
+      {
+        "tag": "Healthcare Portal",
+        "title": "Patient Access Portal",
+        "problem": "Patients need a simpler intake and follow-up experience.",
+        "solution": "Unified forms, reminders, and status visibility.",
+        "tech": "Next.js, Bootstrap 5, Node.js, OCR",
+        "outcome": "Fewer manual follow-ups and faster intake."
+      },
+      {
+        "tag": "Healthcare Portal",
+        "title": "Clinical Docs Assistant",
+        "problem": "Clinical teams lose time searching documents.",
+        "solution": "AI search and document summarization.",
+        "tech": "Python, OpenAI, secure index",
+        "outcome": "Faster information retrieval during patient care."
+      },
+      {
+        "tag": "AI Document Processing",
+        "title": "Referral Workflow Automation",
+        "problem": "Referral handling is slow and inconsistent.",
+        "solution": "Automated routing and validation.",
+        "tech": "Node.js, workflow engine, APIs",
+        "outcome": "Quicker referral processing and better traceability."
+      },
+      {
+        "tag": "Operations",
+        "title": "Care Ops Dashboard",
+        "problem": "Leadership needs a clearer operational view.",
+        "solution": "Real-time KPI dashboard and alerts.",
+        "tech": "React, Bootstrap, charts",
+        "outcome": "Faster decisions with less guesswork."
+      }
+    ],
+    "faqs": [
+      [
+        "How long does the assessment take?",
+        "The complimentary assessment is delivered within 48 hours after the strategy call and context review."
+      ],
+      [
+        "Is it really free?",
+        "Yes. The 48-hour assessment and the strategy call are complimentary."
+      ],
+      [
+        "Can you work with our existing software?",
+        "Yes. We often integrate with existing portals, CRMs, and systems rather than replacing everything."
+      ],
+      [
+        "Do you build secure and compliant systems?",
+        "Yes. Security and compliance are part of the architecture and QA process from the start."
+      ],
+      [
+        "Can you handle patient scheduling and documentation workflows?",
+        "Yes. Those are common starting points for healthcare automation."
+      ]
+    ]
+  },
+  {
+    "slug": "accounting-ai-assessment",
+    "pageTitle": "Accounting AI Assessment | Oswell Technologies",
+    "description": "Book a free accounting AI assessment to reduce invoice processing, bookkeeping effort, and document handling with automation.",
+    "title": "Still Spending Hours on Manual Accounting Tasks?",
+    "subtitle": "See where automation can speed up invoice handling, bookkeeping, and document management while improving accuracy and freeing your finance team.",
+    "metrics": [
+      [
+        "↓ 65%",
+        "Repetitive work reduction"
+      ],
+      [
+        "↑ 40%",
+        "Productivity improvement"
+      ],
+      [
+        "↓ 30%",
+        "Operational cost reduction"
+      ],
+      [
+        "↑ 3x",
+        "Faster decision making"
+      ]
+    ],
+    "industry": "Accounting",
+    "review": [
+      "Invoice processing",
+      "Manual bookkeeping",
+      "Data entry",
+      "Document management",
+      "Reconciliation"
+    ],
+    "challengesTitle": "What slows teams down in accounting",
+    "challenges": [
+      "Invoice processing delays",
+      "Manual bookkeeping effort",
+      "Duplicate data entry",
+      "Document management chaos",
+      "Reconciliation bottlenecks"
+    ],
+    "solveTitle": "Where AI, automation, and better software create leverage",
+    "solutions": [
+      [
+        "Invoice automation",
+        "Extract and route invoice data automatically to reduce manual handling."
+      ],
+      [
+        "Bookkeeping workflow",
+        "Build structured finance workflows that reduce repetitive entries and errors."
+      ],
+      [
+        "Document intelligence",
+        "Use AI to search, classify, and summarize finance documents."
+      ],
+      [
+        "Reconciliation support",
+        "Create dashboards and automations that make month-end work less painful."
+      ]
+    ],
+    "portfolio": [
+      {
+        "tag": "Accounting",
+        "title": "AP Automation Hub",
+        "problem": "Accounts payable teams spend too long processing invoices.",
+        "solution": "Automated OCR and approval routing.",
+        "tech": "Next.js, OCR, workflow automation",
+        "outcome": "Faster invoice handling and fewer errors."
+      },
+      {
+        "tag": "Accounting",
+        "title": "Ledger Assistant",
+        "problem": "Teams need quicker access to finance context.",
+        "solution": "Searchable assistant for policies and records.",
+        "tech": "AI retrieval, secure document index",
+        "outcome": "Less time searching and rechecking."
+      },
+      {
+        "tag": "Finance",
+        "title": "Reconciliation Dashboard",
+        "problem": "Month-end close needs more visibility.",
+        "solution": "Live balance and exception tracking.",
+        "tech": "React, APIs, charts",
+        "outcome": "More control during close."
+      },
+      {
+        "tag": "Operations",
+        "title": "Tax Document Workflow",
+        "problem": "Tax documents arrive in scattered formats.",
+        "solution": "Classification and structured handoff.",
+        "tech": "Bootstrap, Node.js, OCR",
+        "outcome": "Cleaner handoff and lower admin effort."
+      }
+    ],
+    "faqs": [
+      [
+        "Can you work with our existing bookkeeping tools?",
+        "Yes. We often connect to existing tools and improve the workflows around them."
+      ],
+      [
+        "Will this replace our accountants?",
+        "No. The goal is to reduce repetitive work so accountants can focus on review and decisions."
+      ],
+      [
+        "How do you handle financial data security?",
+        "We design security into the workflow and recommend controls based on your environment."
+      ],
+      [
+        "Can you automate invoice processing?",
+        "Yes. Invoice extraction and routing are common starting points."
+      ],
+      [
+        "Is the assessment free?",
+        "Yes, the strategy call and 48-hour assessment are complimentary."
+      ]
+    ]
+  },
+  {
+    "slug": "logistics-ai-assessment",
+    "pageTitle": "Logistics AI Assessment | Oswell Technologies",
+    "description": "Book a free logistics AI assessment to improve fleet visibility, route optimization, and warehouse operations with modern software.",
+    "title": "Make Every Shipment Smarter with AI",
+    "subtitle": "Identify where automation can improve fleet visibility, route planning, warehouse operations, and shipment status tracking before you commit to a larger system build.",
+    "metrics": [
+      [
+        "↓ 65%",
+        "Repetitive work reduction"
+      ],
+      [
+        "↑ 40%",
+        "Productivity improvement"
+      ],
+      [
+        "↓ 30%",
+        "Operational cost reduction"
+      ],
+      [
+        "↑ 3x",
+        "Faster decision making"
+      ]
+    ],
+    "industry": "Logistics",
+    "review": [
+      "Fleet management",
+      "Route optimization",
+      "Warehouse operations",
+      "Shipment tracking",
+      "Dispatch visibility"
+    ],
+    "challengesTitle": "What slows teams down in logistics",
+    "challenges": [
+      "Fleet management blind spots",
+      "Route optimization inefficiency",
+      "Warehouse operations lag",
+      "Shipment tracking visibility gaps",
+      "Dispatch coordination overhead"
+    ],
+    "solveTitle": "Where AI, automation, and better software create leverage",
+    "solutions": [
+      [
+        "Dispatch intelligence",
+        "Reduce manual coordination and keep shipments moving with smarter dispatch tools."
+      ],
+      [
+        "Route planning",
+        "Use data to help operators choose better routes and timing."
+      ],
+      [
+        "Warehouse workflows",
+        "Streamline internal tasks and status updates across the warehouse."
+      ],
+      [
+        "Shipment visibility",
+        "Give teams a clearer operational picture across the delivery lifecycle."
+      ]
+    ],
+    "portfolio": [
+      {
+        "tag": "Logistics",
+        "title": "Route Intelligence Hub",
+        "problem": "Teams spend too long manually planning routes.",
+        "solution": "Planning and exception dashboards.",
+        "tech": "React, APIs, mapping tools",
+        "outcome": "Better dispatch decisions."
+      },
+      {
+        "tag": "Logistics",
+        "title": "Warehouse Ops Console",
+        "problem": "Warehouse actions are spread across systems.",
+        "solution": "Task orchestration and live status.",
+        "tech": "Next.js, Bootstrap, Node.js",
+        "outcome": "Smoother operations."
+      },
+      {
+        "tag": "Logistics",
+        "title": "Shipment Tracking Portal",
+        "problem": "Clients need visibility into shipments.",
+        "solution": "Live tracking and notifications.",
+        "tech": "Web app, integrations, alerts",
+        "outcome": "Fewer support questions."
+      },
+      {
+        "tag": "Automation",
+        "title": "POD Workflow Assistant",
+        "problem": "Proof-of-delivery steps create admin overhead.",
+        "solution": "Automated capture and review.",
+        "tech": "OCR, APIs, workflow engine",
+        "outcome": "Faster document handling."
+      }
+    ],
+    "faqs": [
+      [
+        "Can you work with our current fleet or ERP systems?",
+        "Yes. We can integrate with existing systems and focus on the workflows that matter most."
+      ],
+      [
+        "Do you help with route optimization?",
+        "Yes. Route visibility and planning are common opportunities for logistics teams."
+      ],
+      [
+        "Can you build shipment tracking for clients?",
+        "Absolutely. Client-facing tracking and status dashboards are common requests."
+      ],
+      [
+        "How long is the assessment?",
+        "The free assessment is delivered within 48 hours of the strategy call."
+      ],
+      [
+        "Is the 20-minute call free?",
+        "Yes. The call and the assessment are complimentary."
+      ]
+    ]
+  },
+  {
+    "slug": "manufacturing-ai-assessment",
+    "pageTitle": "Manufacturing AI Assessment | Oswell Technologies",
+    "description": "Book a free manufacturing AI assessment to reduce downtime, improve production planning, and surface quality control opportunities.",
+    "title": "Your Factory Generates Data. Is It Creating Value?",
+    "subtitle": "We help manufacturing teams identify where AI can improve inventory, production planning, quality control, and maintenance visibility before the build begins.",
+    "metrics": [
+      [
+        "↓ 65%",
+        "Repetitive work reduction"
+      ],
+      [
+        "↑ 40%",
+        "Productivity improvement"
+      ],
+      [
+        "↓ 30%",
+        "Operational cost reduction"
+      ],
+      [
+        "↑ 3x",
+        "Faster decision making"
+      ]
+    ],
+    "industry": "Manufacturing",
+    "review": [
+      "Inventory",
+      "Production planning",
+      "Machine downtime",
+      "Quality control",
+      "Maintenance visibility"
+    ],
+    "challengesTitle": "What slows teams down in manufacturing",
+    "challenges": [
+      "Inventory uncertainty",
+      "Production planning delays",
+      "Machine downtime",
+      "Quality control inconsistency",
+      "Maintenance visibility gaps"
+    ],
+    "solveTitle": "Where AI, automation, and better software create leverage",
+    "solutions": [
+      [
+        "Inventory intelligence",
+        "Build dashboards and alerts that help teams know what is on hand and what is running low."
+      ],
+      [
+        "Planning support",
+        "Improve production planning with clearer data and prioritized work queues."
+      ],
+      [
+        "Downtime visibility",
+        "Track exceptions and downtime reasons so maintenance can act sooner."
+      ],
+      [
+        "Quality workflows",
+        "Use computer vision and structured review to reduce quality surprises."
+      ]
+    ],
+    "portfolio": [
+      {
+        "tag": "Manufacturing",
+        "title": "Factory Control Tower",
+        "problem": "Leadership needs a clearer production view.",
+        "solution": "Unified operations dashboard.",
+        "tech": "React, charts, APIs",
+        "outcome": "Faster production decisions."
+      },
+      {
+        "tag": "Manufacturing",
+        "title": "Downtime Tracker",
+        "problem": "Machine issues are reported too late.",
+        "solution": "Exception tracking and alerts.",
+        "tech": "Node.js, workflow engine",
+        "outcome": "Earlier maintenance action."
+      },
+      {
+        "tag": "Manufacturing",
+        "title": "QC Vision System",
+        "problem": "Quality review needs more consistency.",
+        "solution": "Computer-vision assisted checks.",
+        "tech": "Python, vision models",
+        "outcome": "More reliable inspections."
+      },
+      {
+        "tag": "Manufacturing",
+        "title": "Inventory Forecast Board",
+        "problem": "Stock planning is reactive.",
+        "solution": "Forecasting and reorder dashboards.",
+        "tech": "Bootstrap, analytics, AI",
+        "outcome": "Fewer shortages and overstock."
+      }
+    ],
+    "faqs": [
+      [
+        "Can you integrate with our ERP or MES?",
+        "Yes. Integration with existing systems is a common part of the engagement."
+      ],
+      [
+        "Do you help with quality control?",
+        "Yes. Quality-control workflows and computer-vision opportunities are often strong candidates."
+      ],
+      [
+        "Can you reduce production downtime?",
+        "We can help identify visibility and workflow improvements that reduce response time."
+      ],
+      [
+        "How fast do we get the assessment?",
+        "Within 48 hours after the strategy call."
+      ],
+      [
+        "Is it free?",
+        "Yes. The call and assessment are complimentary."
+      ]
+    ]
+  },
+  {
+    "slug": "education-ai-assessment",
+    "pageTitle": "Education AI Assessment | Oswell Technologies",
+    "description": "Book a free education AI assessment to improve admissions, student support, and administrative workflows with modern software.",
+    "title": "AI Should Help Educators Teach, Not Increase Their Workload.",
+    "subtitle": "See where automation can reduce administrative effort, improve student communication, and make admissions and support workflows easier to manage.",
+    "metrics": [
+      [
+        "↓ 65%",
+        "Repetitive work reduction"
+      ],
+      [
+        "↑ 40%",
+        "Productivity improvement"
+      ],
+      [
+        "↓ 30%",
+        "Operational cost reduction"
+      ],
+      [
+        "↑ 3x",
+        "Faster decision making"
+      ]
+    ],
+    "industry": "Education",
+    "review": [
+      "Admissions",
+      "Student support",
+      "Administration",
+      "Communication",
+      "Internal workflow visibility"
+    ],
+    "challengesTitle": "What slows teams down in education",
+    "challenges": [
+      "Admissions workload",
+      "Student support backlogs",
+      "Administrative overhead",
+      "Communication lag",
+      "Disjointed systems"
+    ],
+    "solveTitle": "Where AI, automation, and better software create leverage",
+    "solutions": [
+      [
+        "Admissions flow automation",
+        "Streamline enquiries, form handling, and follow-ups with a clear digital workflow."
+      ],
+      [
+        "Student support assistant",
+        "Use AI to answer common questions faster and route more complex requests to humans."
+      ],
+      [
+        "Admin simplification",
+        "Reduce repetitive admin work with forms, approvals, and dashboards."
+      ],
+      [
+        "Communication intelligence",
+        "Improve communication across students, parents, and staff with better visibility."
+      ]
+    ],
+    "portfolio": [
+      {
+        "tag": "Education",
+        "title": "Admissions Hub",
+        "problem": "Admissions teams need a cleaner intake flow.",
+        "solution": "Unified enquiry, follow-up, and conversion flow.",
+        "tech": "Bootstrap, Next.js, forms",
+        "outcome": "Less manual chasing."
+      },
+      {
+        "tag": "Education",
+        "title": "Student Support Assistant",
+        "problem": "Common questions take staff time.",
+        "solution": "AI answers and routing.",
+        "tech": "OpenAI, retrieval, web app",
+        "outcome": "Faster student support."
+      },
+      {
+        "tag": "Education",
+        "title": "Admin Operations Dashboard",
+        "problem": "Leadership lacks a clear admin view.",
+        "solution": "Task and communication tracking.",
+        "tech": "React, APIs, charts",
+        "outcome": "Better coordination."
+      },
+      {
+        "tag": "Education",
+        "title": "Parent Communication Portal",
+        "problem": "Messages are scattered across channels.",
+        "solution": "Centralized updates and notifications.",
+        "tech": "Web app + automation",
+        "outcome": "Improved response rates."
+      }
+    ],
+    "faqs": [
+      [
+        "Can you help with admissions systems?",
+        "Yes. Admissions workflow improvement is one of the most common use cases."
+      ],
+      [
+        "Can the assessment fit our current tools?",
+        "Yes. We can work around existing systems and improve the workflows around them."
+      ],
+      [
+        "Is this only for universities?",
+        "No. Schools, colleges, academies, and training organizations can all benefit."
+      ],
+      [
+        "How fast is the assessment?",
+        "Within 48 hours of the discovery call."
+      ],
+      [
+        "Is the strategy call free?",
+        "Yes. The call and assessment are complimentary."
+      ]
+    ]
+  },
+  {
+    "slug": "legal-ai-assessment",
+    "pageTitle": "Legal AI Assessment | Oswell Technologies",
+    "description": "Book a free legal AI assessment to reduce document review time, streamline case management, and improve knowledge retrieval.",
+    "title": "Lawyers Should Spend Time Practicing Law, Not Searching Through Documents.",
+    "subtitle": "Discover where AI and automation can improve document review, case management, and knowledge retrieval while keeping control in the hands of your team.",
+    "metrics": [
+      [
+        "↓ 65%",
+        "Repetitive work reduction"
+      ],
+      [
+        "↑ 40%",
+        "Productivity improvement"
+      ],
+      [
+        "↓ 30%",
+        "Operational cost reduction"
+      ],
+      [
+        "↑ 3x",
+        "Faster decision making"
+      ]
+    ],
+    "industry": "Legal",
+    "review": [
+      "Document review",
+      "Case management",
+      "Knowledge retrieval",
+      "Client intake",
+      "Workflow tracking"
+    ],
+    "challengesTitle": "What slows teams down in legal",
+    "challenges": [
+      "Document review time",
+      "Case management complexity",
+      "Knowledge retrieval gaps",
+      "Client intake friction",
+      "Workflow visibility issues"
+    ],
+    "solveTitle": "Where AI, automation, and better software create leverage",
+    "solutions": [
+      [
+        "Document intelligence",
+        "Use AI to find clauses, summarize files, and reduce repetitive review time."
+      ],
+      [
+        "Case workflow support",
+        "Create a better view of case progress, tasks, and deadlines."
+      ],
+      [
+        "Knowledge retrieval",
+        "Make it easier for teams to locate precedents, policies, and case notes."
+      ],
+      [
+        "Client intake automation",
+        "Streamline intake while preserving a polished, premium client experience."
+      ]
+    ],
+    "portfolio": [
+      {
+        "tag": "Legal",
+        "title": "Case Vault",
+        "problem": "Teams need quicker access to case context.",
+        "solution": "Searchable case workspace and summaries.",
+        "tech": "Next.js, secure storage, AI search",
+        "outcome": "Less time searching."
+      },
+      {
+        "tag": "Legal",
+        "title": "Contract Review Assistant",
+        "problem": "Manual review slows down legal ops.",
+        "solution": "Clause extraction and summarization.",
+        "tech": "Python, OCR, retrieval",
+        "outcome": "Faster first-pass review."
+      },
+      {
+        "tag": "Legal",
+        "title": "Client Intake Portal",
+        "problem": "Intake can feel clunky and slow.",
+        "solution": "Structured intake and follow-up.",
+        "tech": "Bootstrap, forms, workflow",
+        "outcome": "Cleaner client onboarding."
+      },
+      {
+        "tag": "Legal",
+        "title": "Knowledge Base Search",
+        "problem": "Internal knowledge is hard to retrieve.",
+        "solution": "Centralized AI-assisted search.",
+        "tech": "AI search, embeddings",
+        "outcome": "Quicker answers."
+      }
+    ],
+    "faqs": [
+      [
+        "Can you keep sensitive data secure?",
+        "Yes. Security and access control are part of the design discussion."
+      ],
+      [
+        "Can you work with our current case tools?",
+        "Yes. We often improve workflows around existing legal systems."
+      ],
+      [
+        "How fast do we get the assessment?",
+        "Within 48 hours after the strategy call."
+      ],
+      [
+        "Is the call free?",
+        "Yes. The 20-minute strategy call is complimentary."
+      ],
+      [
+        "Can you improve document review?",
+        "Yes. Document review acceleration is a common starting point."
+      ]
+    ]
+  },
+  {
+    "slug": "recruitment-ai-assessment",
+    "pageTitle": "Recruitment AI Assessment | Oswell Technologies",
+    "description": "Book a free recruitment AI assessment to improve CV screening, interview scheduling, and candidate management workflows.",
+    "title": "Hire Faster. Spend Less Time Screening Candidates.",
+    "subtitle": "See where AI can speed up CV screening, interview scheduling, and candidate communication while keeping recruiters in control.",
+    "metrics": [
+      [
+        "↓ 65%",
+        "Repetitive work reduction"
+      ],
+      [
+        "↑ 40%",
+        "Productivity improvement"
+      ],
+      [
+        "↓ 30%",
+        "Operational cost reduction"
+      ],
+      [
+        "↑ 3x",
+        "Faster decision making"
+      ]
+    ],
+    "industry": "Recruitment",
+    "review": [
+      "CV screening",
+      "Interview scheduling",
+      "Candidate management",
+      "Communication",
+      "Hiring pipeline visibility"
+    ],
+    "challengesTitle": "What slows teams down in recruitment",
+    "challenges": [
+      "CV screening overhead",
+      "Interview scheduling friction",
+      "Candidate management chaos",
+      "Communication gaps",
+      "Pipeline visibility issues"
+    ],
+    "solveTitle": "Where AI, automation, and better software create leverage",
+    "solutions": [
+      [
+        "Candidate ranking",
+        "Use AI to pre-screen and organize applicants more efficiently."
+      ],
+      [
+        "Scheduling automation",
+        "Cut the back-and-forth of interview coordination with smarter scheduling."
+      ],
+      [
+        "Pipeline visibility",
+        "Create a cleaner view of candidate status, stage, and next action."
+      ],
+      [
+        "Candidate communications",
+        "Keep candidates informed with better updates and less manual effort."
+      ]
+    ],
+    "portfolio": [
+      {
+        "tag": "Recruitment",
+        "title": "ATS Automation Hub",
+        "problem": "Recruiters juggle too many repetitive tasks.",
+        "solution": "Workflow automation for candidate movement.",
+        "tech": "Next.js, APIs, automation",
+        "outcome": "Faster recruiter throughput."
+      },
+      {
+        "tag": "Recruitment",
+        "title": "CV Screening Assistant",
+        "problem": "Screening CVs takes too much time.",
+        "solution": "AI-assisted ranking and grouping.",
+        "tech": "OpenAI, search, rules engine",
+        "outcome": "Less manual sorting."
+      },
+      {
+        "tag": "Recruitment",
+        "title": "Interview Scheduler",
+        "problem": "Coordination takes endless emails.",
+        "solution": "Automated scheduling and reminders.",
+        "tech": "Calendar APIs, notifications",
+        "outcome": "Faster interviews."
+      },
+      {
+        "tag": "Recruitment",
+        "title": "Candidate Portal",
+        "problem": "Candidate experience is fragmented.",
+        "solution": "Single portal for updates and actions.",
+        "tech": "Bootstrap, forms, portal",
+        "outcome": "Improved communication."
+      }
+    ],
+    "faqs": [
+      [
+        "Can you automate CV screening?",
+        "Yes. Candidate ranking and filtering are common starting points."
+      ],
+      [
+        "Can you connect to our ATS?",
+        "Yes. Integration with existing ATS tools is often possible."
+      ],
+      [
+        "How fast is the assessment?",
+        "Within 48 hours of the strategy call."
+      ],
+      [
+        "Is the call free?",
+        "Yes. The 20-minute strategy call is complimentary."
+      ],
+      [
+        "Can you help with interview scheduling?",
+        "Yes. Scheduling automation is a very common recruiter pain point."
+      ]
+    ]
+  },
+  {
+    "slug": "retail-ai-assessment",
+    "pageTitle": "Retail AI Assessment | Oswell Technologies",
+    "description": "Book a free retail AI assessment to improve inventory, customer support, sales forecasting, and order management workflows.",
+    "title": "Turn Every Customer Interaction Into Revenue.",
+    "subtitle": "Identify where AI and automation can improve inventory, customer support, sales forecasting, and order management before you invest in a larger platform.",
+    "metrics": [
+      [
+        "↓ 65%",
+        "Repetitive work reduction"
+      ],
+      [
+        "↑ 40%",
+        "Productivity improvement"
+      ],
+      [
+        "↓ 30%",
+        "Operational cost reduction"
+      ],
+      [
+        "↑ 3x",
+        "Faster decision making"
+      ]
+    ],
+    "industry": "Retail",
+    "review": [
+      "Inventory",
+      "Customer support",
+      "Sales forecasting",
+      "Order management",
+      "Customer journey visibility"
+    ],
+    "challengesTitle": "What slows teams down in retail",
+    "challenges": [
+      "Inventory complexity",
+      "Customer support load",
+      "Sales forecasting uncertainty",
+      "Order management friction",
+      "Channel visibility gaps"
+    ],
+    "solveTitle": "Where AI, automation, and better software create leverage",
+    "solutions": [
+      [
+        "Inventory intelligence",
+        "Monitor stock and demand more clearly across channels and locations."
+      ],
+      [
+        "Support automation",
+        "Use AI to answer common customer questions faster and route edge cases to staff."
+      ],
+      [
+        "Forecasting support",
+        "Combine historic data and business rules to improve planning."
+      ],
+      [
+        "Order workflow visibility",
+        "Make it easier to track orders, exceptions, and operational bottlenecks."
+      ]
+    ],
+    "portfolio": [
+      {
+        "tag": "Retail",
+        "title": "Retail Ops Hub",
+        "problem": "Teams need a better view of stock and orders.",
+        "solution": "Unified retail command dashboard.",
+        "tech": "React, APIs, charts",
+        "outcome": "Better day-to-day control."
+      },
+      {
+        "tag": "Retail",
+        "title": "Customer Support Assistant",
+        "problem": "Support teams answer repetitive questions.",
+        "solution": "AI assistant with routing.",
+        "tech": "OpenAI, web chat, workflow",
+        "outcome": "Faster support response."
+      },
+      {
+        "tag": "Retail",
+        "title": "Sales Forecast Board",
+        "problem": "Forecasting is unclear.",
+        "solution": "Demand patterns and trend visualization.",
+        "tech": "Bootstrap, analytics, AI",
+        "outcome": "Better planning."
+      },
+      {
+        "tag": "Retail",
+        "title": "Order Management Console",
+        "problem": "Order status is scattered.",
+        "solution": "Status and exception management.",
+        "tech": "Next.js, portal, APIs",
+        "outcome": "Cleaner order operations."
+      }
+    ],
+    "faqs": [
+      [
+        "Can you help with inventory management?",
+        "Yes. Inventory visibility and automation are common retail opportunities."
+      ],
+      [
+        "Can you improve customer support?",
+        "Yes. AI support flows can reduce repetitive questions and speed up response times."
+      ],
+      [
+        "How fast is the assessment?",
+        "Within 48 hours of the strategy call."
+      ],
+      [
+        "Is the strategy call free?",
+        "Yes. The 20-minute strategy call is complimentary."
+      ],
+      [
+        "Can you help with sales forecasting?",
+        "Yes. Forecasting dashboards and planning support are common requests."
+      ]
+    ]
+  }
+]
