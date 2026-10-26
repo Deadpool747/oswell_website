@@ -3,7 +3,7 @@ import {
   Cpu, Database, Download, Eye, Eye as Vision, Factory, FileText, GraduationCap, Globe, Handshake, HeartPulse,
   Landmark, Layers, LineChart, Lightbulb, Lock, Mail, MessageSquare, Mic, Package, Phone, Radar, RefreshCw, Rocket,
   ScanLine, Scale, Search, Settings2, ShieldCheck, ShoppingCart, Smartphone, Sparkles, Stethoscope, Target,
-  TrendingUp, Trophy, Truck, Users, Workflow, Zap,
+  TrendingUp, Trophy, Truck, Users, Workflow, Zap, Sun, Moon,
 } from "lucide-react";
 
 const map = {
@@ -15,7 +15,7 @@ const map = {
   package: Package, phone: Phone, radar: Radar, refresh: RefreshCw, rocket: Rocket, scan: ScanLine, scale: Scale,
   search: Search, settings: Settings2, shield: ShieldCheck, cart: ShoppingCart, mobile: Smartphone,
   sparkles: Sparkles, stethoscope: Stethoscope, target: Target, trend: TrendingUp, trophy: Trophy, truck: Truck,
-  users: Users, workflow: Workflow, zap: Zap,
+  users: Users, workflow: Workflow, zap: Zap, sun: Sun, moon: Moon,
 };
 
 export default function Icon({ name, size = 22, className = "", strokeWidth = 1.8 }) {

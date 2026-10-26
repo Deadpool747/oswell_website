@@ -7,7 +7,8 @@ export default function Footer() {
       <div className="container footer-shell">
       <div className="footer-grid">
         <div>
-          <img src="/logo-transparent.png" alt="Oswell Technologies" height="32" />
+          <img className="logo-on-light" src="/logo-transparent.png" alt="Oswell Technologies" height="32" />
+          <img className="logo-on-dark" src="/logo-dark.png" alt="" height="32" aria-hidden="true" />
           <p className="muted footer-blurb">
             Product engineering partner for teams building digital systems that grow with the business.
           </p>

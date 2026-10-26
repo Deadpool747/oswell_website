@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import { CAL_URL, nav, navIndustry } from "@/lib/site";
 import Icon from "@/components/Icon";
+import ThemeToggle from "@/components/ThemeToggle";
 
 export default function Header() {
   const [open, setOpen] = useState(false);
@@ -33,7 +34,8 @@ export default function Header() {
     <header className="header">
       <div className="container header-row">
         <Link href="/" className="brand" onClick={close}>
-          <img src="/logo-transparent.png" alt="Oswell Technologies" height="34" />
+          <img className="logo-on-light" src="/logo-transparent.png" alt="Oswell Technologies" height="34" />
+          <img className="logo-on-dark" src="/logo-dark.png" alt="" height="34" aria-hidden="true" />
         </Link>
         <nav className={`nav ${open ? "is-open" : ""}`} aria-label="Main">
           {nav.slice(0, 3).map((n) => (
@@ -76,10 +78,13 @@ export default function Header() {
             Book a call
           </a>
         </nav>
-        <button className="menu-btn" aria-label="Toggle menu" aria-expanded={open} onClick={() => setOpen(!open)}>
-          <span />
-          <span />
-        </button>
+        <div className="header-actions">
+          <ThemeToggle />
+          <button className="menu-btn" aria-label="Toggle menu" aria-expanded={open} onClick={() => setOpen(!open)}>
+            <span />
+            <span />
+          </button>
+        </div>
       </div>
     </header>
   );

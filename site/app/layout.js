@@ -4,6 +4,7 @@ import Footer from "@/components/Footer";
 import RevealObserver from "@/components/RevealObserver";
 import "./globals.css";
 import "./sections.css";
+import "./theme.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-body" });
 const grotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-display", weight: ["500", "700"] });
@@ -25,9 +26,15 @@ export const metadata = {
 
 export const viewport = { themeColor: "#eef0f8" };
 
+// Runs before first paint: use the saved choice, else the visitor's system preference.
+const themeInit = `(function(){try{var t=localStorage.getItem("oswell-theme");if(t!=="dark"&&t!=="light"){t=window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}document.documentElement.dataset.theme=t}catch(e){}})();`;
+
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className={`${inter.variable} ${grotesk.variable}`}>
+    <html lang="en" className={`${inter.variable} ${grotesk.variable}`} suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeInit }} />
+      </head>
       <body>
         <Header />
         <main>{children}</main>

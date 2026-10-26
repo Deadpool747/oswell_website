@@ -1,0 +1,135 @@
+/*
+  Dark theme. Loaded last. The light theme is the default in globals.css / sections.css;
+  everything here only applies when <html data-theme="dark">.
+  The hero, the closing CTA and the "numbers" band are dark in both themes already.
+*/
+
+/* ---------- logo swap ---------- */
+.logo-on-dark { display: none; }
+:root[data-theme="dark"] .logo-on-light { display: none; }
+:root[data-theme="dark"] .logo-on-dark { display: block; }
+
+/* ---------- toggle button ---------- */
+.header-actions { display: flex; align-items: center; gap: 0.4rem; }
+.theme-toggle {
+  position: relative; display: grid; place-items: center; width: 42px; height: 42px; flex: none; cursor: pointer;
+  border-radius: 50%; border: 1px solid var(--edge); background: var(--glass-strong); color: var(--ink);
+  transition: transform 0.25s, background 0.25s, border-color 0.25s;
+}
+.theme-toggle:hover { transform: rotate(18deg) scale(1.06); border-color: var(--accent); }
+.theme-toggle svg { position: absolute; transition: transform 0.45s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.3s; }
+.theme-toggle .i-moon { transform: rotate(-90deg) scale(0.4); opacity: 0; }
+:root[data-theme="dark"] .theme-toggle .i-sun { transform: rotate(90deg) scale(0.4); opacity: 0; }
+:root[data-theme="dark"] .theme-toggle .i-moon { transform: none; opacity: 1; }
+
+/* ---------- palette ---------- */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #080b1a;
+  --ink: #eef1ff;
+  --ink-2: #b9c2de;
+  --muted: #8d98b8;
+  --accent: #8d93ff;
+  --glass: rgba(24, 30, 60, 0.55);
+  --glass-strong: rgba(30, 38, 76, 0.82);
+  --line: rgba(255, 255, 255, 0.1);
+  --edge: rgba(255, 255, 255, 0.09);
+  --shadow: 0 10px 40px -12px rgba(0, 0, 0, 0.6), 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 30px 80px -24px rgba(0, 0, 0, 0.75);
+}
+:root[data-theme="dark"] body {
+  background:
+    radial-gradient(900px 600px at 0% -5%, rgba(80, 90, 230, 0.22), transparent 65%),
+    radial-gradient(900px 700px at 100% 30%, rgba(40, 190, 160, 0.14), transparent 65%),
+    radial-gradient(800px 600px at 20% 100%, rgba(255, 150, 110, 0.07), transparent 65%),
+    var(--bg);
+}
+
+/* ---------- buttons, nav, small surfaces ---------- */
+:root[data-theme="dark"] .btn-primary { background: #eef1ff; color: #0b0d17; box-shadow: 0 10px 24px -8px rgba(140, 150, 255, 0.35); }
+:root[data-theme="dark"] .btn-ghost:hover { background: rgba(255, 255, 255, 0.14); }
+:root[data-theme="dark"] .btn-light { color: #0b0d17; }
+:root[data-theme="dark"] .cta .btn-primary { color: #0b0d17; }
+:root[data-theme="dark"] .ticker.dark .ticker-tag { color: #0b0d17; }
+:root[data-theme="dark"] .nav a:not(.btn):hover,
+:root[data-theme="dark"] .dropdown-btn:hover,
+:root[data-theme="dark"] .dropdown.is-open .dropdown-btn { background: rgba(255, 255, 255, 0.1); color: var(--ink); }
+:root[data-theme="dark"] .dropdown-menu a:hover { background: rgba(255, 255, 255, 0.08); color: var(--accent); }
+:root[data-theme="dark"] .menu-btn span { background: var(--ink); }
+:root[data-theme="dark"] .section.alt { background: rgba(255, 255, 255, 0.03); border-block-color: rgba(255, 255, 255, 0.06); }
+:root[data-theme="dark"] .icon { background: rgba(255, 255, 255, 0.08); border-color: var(--edge); box-shadow: none; }
+:root[data-theme="dark"] .tint-1 { color: #4fe3a8; } :root[data-theme="dark"] .tint-2 { color: #6fb3ff; }
+:root[data-theme="dark"] .tint-3 { color: #a99bff; } :root[data-theme="dark"] .tint-4 { color: #ffa45c; }
+:root[data-theme="dark"] .tint-5 { color: #4fe0cc; } :root[data-theme="dark"] .tint-6 { color: #ff7fb0; }
+:root[data-theme="dark"] .tags li { background: rgba(255, 255, 255, 0.07); }
+:root[data-theme="dark"] .faq summary::after { background: rgba(255, 255, 255, 0.08); }
+:root[data-theme="dark"] .role:hover { background: rgba(255, 255, 255, 0.08); }
+:root[data-theme="dark"] .checks li::before { background: linear-gradient(135deg, #3dd6a5, #159a85); }
+:root[data-theme="dark"] .checks.minus li::before { background: rgba(255, 255, 255, 0.2); }
+:root[data-theme="dark"] .card::before { opacity: 0.32; }
+:root[data-theme="dark"] .card:hover { background: var(--glass-strong); }
+:root[data-theme="dark"] .photo-inner { background: #141a3a; }
+:root[data-theme="dark"] .team-photo { background: #fff; }
+:root[data-theme="dark"] .team-photo.is-placeholder { background: #0b1626; }
+:root[data-theme="dark"] .link { color: var(--accent); }
+
+/* ---------- "inverse" pills: dark chip on light page -> light chip on dark page ---------- */
+:root[data-theme="dark"] .step-n,
+:root[data-theme="dark"] .numbered li::before,
+:root[data-theme="dark"] .role span,
+:root[data-theme="dark"] .chips a:hover,
+:root[data-theme="dark"] .sc-tab.is-active .sc-tab-icon,
+:root[data-theme="dark"] .sc-chip,
+:root[data-theme="dark"] .sc-voice .b-bottom,
+:root[data-theme="dark"] .msg.user,
+:root[data-theme="dark"] .num-tile:hover,
+:root[data-theme="dark"] .ticker-tag,
+:root[data-theme="dark"] .story:hover .story-go,
+:root[data-theme="dark"] .insight .kind,
+:root[data-theme="dark"] .tech li:hover { background: #eef1ff; color: #0b0d17; border-color: #eef1ff; }
+:root[data-theme="dark"] .insight .kind.paper { background: linear-gradient(100deg, #5b5ff0, #2fb7ff); color: #fff; border-color: transparent; }
+:root[data-theme="dark"] .sc-voice .b-bottom small { color: rgba(11, 13, 23, 0.6); }
+:root[data-theme="dark"] .num-tile:hover .n { color: #5b5ff0; }
+:root[data-theme="dark"] .num-tile:hover .i,
+:root[data-theme="dark"] .num-tile:hover .t { color: #0b0d17; }
+:root[data-theme="dark"] .ticker.dark .ticker-tag i, :root[data-theme="dark"] .ticker-tag i { box-shadow: 0 0 8px #2fb7ff; background: #2fb7ff; }
+/* the hero ticker tag keeps its own (white) look */
+:root[data-theme="dark"] .ticker.dark .ticker-tag { background: #fff; }
+
+/* ---------- sections ---------- */
+:root[data-theme="dark"] .svc-num,
+:root[data-theme="dark"] .why-n { color: rgba(255, 255, 255, 0.3); }
+:root[data-theme="dark"] .bigtext { background: rgba(255, 255, 255, 0.03); }
+:root[data-theme="dark"] .bigtext span { -webkit-text-stroke-color: rgba(238, 241, 255, 0.5); }
+:root[data-theme="dark"] .numbers { background: #0e1330; color: #fff; border: 1px solid rgba(255, 255, 255, 0.1); }
+:root[data-theme="dark"] .story:hover { background: rgba(255, 255, 255, 0.05); }
+:root[data-theme="dark"] .story-cat,
+:root[data-theme="dark"] .story-go { background: rgba(255, 255, 255, 0.08); }
+:root[data-theme="dark"] .marquee-track span { color: var(--ink-2); }
+:root[data-theme="dark"] .chips a { background: var(--glass-strong); }
+
+/* ---------- interactive demos ---------- */
+:root[data-theme="dark"] .sc-tab { background: rgba(255, 255, 255, 0.04); }
+:root[data-theme="dark"] .sc-tab:hover { background: rgba(255, 255, 255, 0.09); }
+:root[data-theme="dark"] .sc-tab.is-active { background: rgba(255, 255, 255, 0.11); }
+:root[data-theme="dark"] .sc-tab-icon { background: rgba(255, 255, 255, 0.08); }
+:root[data-theme="dark"] .sc-stage {
+  background:
+    radial-gradient(120% 90% at 10% 0%, rgba(91, 95, 240, 0.4), transparent 60%),
+    radial-gradient(100% 90% at 100% 100%, rgba(40, 190, 160, 0.25), transparent 60%),
+    #0d1230;
+}
+:root[data-theme="dark"] .sc-bubble,
+:root[data-theme="dark"] .route-out { background: #1b2250; color: var(--ink); }
+:root[data-theme="dark"] .sc-bubble small { color: var(--muted); }
+:root[data-theme="dark"] .sc-chat .chat-window { background: rgba(22, 28, 60, 0.88); border-color: rgba(255, 255, 255, 0.12); }
+:root[data-theme="dark"] .msg.bot { background: rgba(91, 95, 240, 0.28); color: var(--ink); }
+:root[data-theme="dark"] .msg.bot.done { background: rgba(61, 214, 165, 0.18); color: #6fe3c1; }
+:root[data-theme="dark"] .conn-node small { background: rgba(27, 34, 80, 0.92); color: var(--ink-2); }
+:root[data-theme="dark"] .flow { stroke: #8d93ff; }
+:root[data-theme="dark"] .pill-avatar { color: #fff; }
+
+/* smooth swap when the user flips the switch (not on first paint) */
+html.theme-anim body, html.theme-anim .card, html.theme-anim .header-row, html.theme-anim .footer-shell {
+  transition: background-color 0.35s, color 0.35s, border-color 0.35s;
+}
