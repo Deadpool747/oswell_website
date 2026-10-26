@@ -137,7 +137,7 @@
 .chip-time { right: 7%; bottom: 7%; animation-delay: 5s; }
 
 /* Route + connect (SVG flows) */
-.sc-route svg, .sc-connect svg { position: absolute; inset: 0; width: 100%; height: 100%; }
+.sc-route > svg, .sc-connect > svg { position: absolute; inset: 0; width: 100%; height: 100%; }
 .flow { fill: none; stroke: #6a74f7; stroke-width: 0.5; stroke-dasharray: 2 2.4; vector-effect: non-scaling-stroke; stroke-width: 2; opacity: 0.7; animation: dash 1.4s linear infinite; animation-delay: var(--d, 0s); }
 @keyframes dash { to { stroke-dashoffset: -9.6; } }
 .route-in { position: absolute; left: 8%; top: 50%; transform: translateY(-50%); }
